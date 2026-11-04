@@ -1,0 +1,2105 @@
+state=0 zone=CENTER move=INIT z=HOLD v=0.0 vw=+0.0 cx=153 cy=92 px=6278 fps=37
+state=0 zone=CENTER move=STOP z=HOLD v=9.1 vw=+0.0 cx=154 cy=92 px=6257 fps=42
+state=0 zone=CENTER move=STOP z=HOLD v=12.0 vw=+0.0 cx=154 cy=91 px=6252 fps=43
+state=0 zone=CENTER move=STOP z=HOLD v=8.3 vw=+0.0 cx=153 cy=91 px=6336 fps=44
+state=0 zone=CENTER move=STOP z=HOLD v=9.2 vw=+0.0 cx=154 cy=91 px=6288 fps=45
+state=0 zone=CENTER move=STOP z=HOLD v=6.3 vw=+0.0 cx=153 cy=91 px=6298 fps=45
+state=0 zone=CENTER move=STOP z=HOLD v=5.0 vw=+0.0 cx=153 cy=91 px=6304 fps=45
+state=0 zone=CENTER move=STOP z=HOLD v=12.5 vw=+0.0 cx=152 cy=91 px=6378 fps=46
+state=0 zone=CENTER move=STOP z=HOLD v=10.0 vw=+0.0 cx=152 cy=91 px=6358 fps=46
+state=0 zone=CENTER move=STOP z=HOLD v=17.4 vw=-9.5 cx=151 cy=91 px=6403 fps=46
+state=0 zone=CENTER move=STOP z=HOLD v=18.5 vw=-7.6 cx=150 cy=91 px=6428 fps=48
+state=0 zone=CENTER move=STOP z=HOLD v=18.2 vw=-2.7 cx=149 cy=91 px=6487 fps=50
+state=0 zone=CENTER move=STOP z=HOLD v=17.9 vw=-5.5 cx=148 cy=91 px=6510 fps=51
+state=0 zone=CENTER move=STOP z=HOLD v=10.7 vw=-0.8 cx=149 cy=91 px=6521 fps=53
+state=0 zone=CENTER move=STOP z=HOLD v=6.6 vw=+2.6 cx=150 cy=90 px=6497 fps=54
+state=0 zone=CENTER move=STOP z=HOLD v=5.3 vw=-7.0 cx=150 cy=90 px=6415 fps=57
+state=0 zone=CENTER move=STOP z=HOLD v=4.2 vw=-3.4 cx=150 cy=90 px=6430 fps=58
+state=0 zone=CENTER move=STOP z=HOLD v=6.4 vw=-6.1 cx=149 cy=90 px=6507 fps=59
+state=0 zone=CENTER move=STOP z=HOLD v=5.1 vw=-4.9 cx=149 cy=90 px=6515 fps=61
+state=0 zone=CENTER move=STOP z=HOLD v=4.1 vw=-7.0 cx=149 cy=90 px=6521 fps=62
+state=0 zone=CENTER move=STOP z=HOLD v=6.7 vw=-5.6 cx=148 cy=90 px=6499 fps=63
+state=0 zone=CENTER move=STOP z=HOLD v=5.3 vw=-1.2 cx=148 cy=90 px=6550 fps=64
+state=0 zone=CENTER move=STOP z=FAR v=4.3 vw=-19.1 cx=148 cy=90 px=6546 fps=66
+state=0 zone=CENTER move=STOP z=HOLD v=6.2 vw=-13.1 cx=147 cy=89 px=6551 fps=66
+state=0 zone=CENTER move=STOP z=HOLD v=5.0 vw=-7.0 cx=147 cy=89 px=6559 fps=67
+state=0 zone=CENTER move=STOP z=HOLD v=4.0 vw=-5.6 cx=147 cy=89 px=6561 fps=69
+state=0 zone=CENTER move=STOP z=HOLD v=3.2 vw=-4.5 cx=147 cy=89 px=6567 fps=69
+state=0 zone=CENTER move=STOP z=HOLD v=1.6 vw=-10.4 cx=148 cy=89 px=6480 fps=70
+state=0 zone=CENTER move=STOP z=HOLD v=1.3 vw=-4.9 cx=148 cy=89 px=6475 fps=71
+state=0 zone=CENTER move=STOP z=HOLD v=1.0 vw=-3.9 cx=148 cy=89 px=6507 fps=71
+state=0 zone=CENTER move=STOP z=HOLD v=0.8 vw=-3.1 cx=148 cy=89 px=6520 fps=72
+state=0 zone=CENTER move=STOP z=HOLD v=0.6 vw=-6.0 cx=148 cy=89 px=6509 fps=72
+state=0 zone=CENTER move=STOP z=HOLD v=0.5 vw=-4.8 cx=148 cy=89 px=6522 fps=73
+state=0 zone=CENTER move=STOP z=HOLD v=2.9 vw=-0.6 cx=147 cy=89 px=6552 fps=73
+state=0 zone=CENTER move=STOP z=HOLD v=2.4 vw=+3.0 cx=147 cy=89 px=6578 fps=74
+state=0 zone=CENTER move=STOP z=HOLD v=1.9 vw=+2.4 cx=147 cy=89 px=6558 fps=74
+state=0 zone=CENTER move=STOP z=HOLD v=1.5 vw=-6.8 cx=147 cy=89 px=6551 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=1.2 vw=-5.4 cx=147 cy=89 px=6562 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=1.0 vw=-4.4 cx=147 cy=89 px=6555 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=0.8 vw=-3.5 cx=147 cy=89 px=6542 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=4.2 vw=-6.1 cx=148 cy=90 px=6543 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=3.3 vw=-4.9 cx=148 cy=90 px=6549 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=2.2 vw=-3.9 cx=148 cy=89 px=6552 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=1.8 vw=+0.3 cx=148 cy=89 px=6521 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=2.6 vw=+0.3 cx=147 cy=89 px=6533 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=11.7 vw=-3.2 cx=145 cy=87 px=6286 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=17.3 vw=+15.6 cx=144 cy=87 px=6305 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=13.8 vw=+9.3 cx=144 cy=87 px=6330 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=11.1 vw=+9.8 cx=144 cy=87 px=6326 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=8.9 vw=-19.4 cx=144 cy=87 px=6343 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=7.1 vw=-12.3 cx=144 cy=87 px=6309 fps=81
+state=-1 zone=LEFT move=STOP z=HOLD v=5.8 vw=-9.9 cx=145 cy=86 px=6309 fps=81
+state=-1 zone=LEFT move=STOP z=HOLD v=7.9 vw=-7.9 cx=145 cy=85 px=6301 fps=81
+state=-1 zone=LEFT move=STOP z=HOLD v=14.9 vw=-6.3 cx=145 cy=84 px=6298 fps=81
+state=-1 zone=LEFT move=STOP z=HOLD v=28.1 vw=-11.5 cx=145 cy=79 px=6345 fps=81
+state=-1 zone=LEFT move=STOP z=FAR v=52.2 vw=-18.6 cx=140 cy=67 px=6415 fps=82
+state=-1 zone=LEFT move=STOP z=HOLD v=73.4 vw=-14.9 cx=138 cy=64 px=6410 fps=82
+state=-1 zone=LEFT move=MOVE UP 111deg z=FAR v=86.3 vw=-18.4 cx=135 cy=56 px=6339 fps=82
+state=-1 zone=LEFT move=MOVE UP 111deg z=FAR v=107.5 vw=-21.8 cx=131 cy=46 px=6140 fps=83
+state=-1 zone=LEFT move=MOVE UP 113deg z=FAR v=105.9 vw=-52.0 cx=128 cy=41 px=5304 fps=83
+state=-1 zone=LEFT move=MOVE UP 113deg z=FAR v=92.7 vw=-38.0 cx=127 cy=39 px=5082 fps=83
+state=-1 zone=LEFT move=MOVE UP 114deg z=FAR v=82.6 vw=-28.0 cx=125 cy=36 px=4672 fps=83
+state=-1 zone=LEFT move=MOVE UP 115deg z=FAR v=73.7 vw=-22.4 cx=124 cy=34 px=4451 fps=83
+state=-1 zone=LEFT move=STOP z=HOLD v=60.5 vw=-11.0 cx=123 cy=34 px=4440 fps=83
+state=-1 zone=LEFT move=STOP z=FAR v=48.4 vw=-19.2 cx=123 cy=34 px=4434 fps=83
+state=-1 zone=LEFT move=STOP z=HOLD v=35.4 vw=-6.2 cx=124 cy=34 px=4470 fps=84
+state=-1 zone=LEFT move=STOP z=HOLD v=28.3 vw=-5.0 cx=124 cy=34 px=4499 fps=84
+state=-1 zone=LEFT move=STOP z=HOLD v=22.1 vw=-8.8 cx=125 cy=34 px=4467 fps=84
+state=-1 zone=LEFT move=STOP z=NEAR v=17.7 vw=+27.8 cx=125 cy=34 px=4495 fps=85
+state=-1 zone=LEFT move=STOP z=HOLD v=15.0 vw=+15.7 cx=124 cy=34 px=4440 fps=85
+state=-1 zone=LEFT move=STOP z=HOLD v=12.0 vw=+12.5 cx=124 cy=34 px=4433 fps=85
+state=-1 zone=LEFT move=STOP z=HOLD v=9.6 vw=+10.0 cx=124 cy=34 px=4448 fps=86
+state=-1 zone=LEFT move=STOP z=HOLD v=7.7 vw=+15.2 cx=124 cy=34 px=4496 fps=86
+state=-1 zone=LEFT move=STOP z=HOLD v=3.2 vw=+5.1 cx=124 cy=35 px=4538 fps=86
+state=-1 zone=LEFT move=STOP z=HOLD v=2.5 vw=+4.1 cx=124 cy=35 px=4568 fps=86
+state=-1 zone=LEFT move=STOP z=HOLD v=2.0 vw=+3.3 cx=124 cy=35 px=4587 fps=86
+state=-1 zone=LEFT move=STOP z=HOLD v=1.6 vw=+2.6 cx=124 cy=35 px=4598 fps=86
+state=-1 zone=LEFT move=STOP z=HOLD v=2.5 vw=+2.1 cx=124 cy=36 px=4620 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=3.4 vw=+8.7 cx=125 cy=36 px=4649 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=2.7 vw=+7.0 cx=125 cy=36 px=4652 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=2.1 vw=+3.3 cx=125 cy=36 px=4687 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=5.0 vw=-0.9 cx=126 cy=36 px=4688 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=4.0 vw=-0.7 cx=126 cy=36 px=4696 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=4.9 vw=-6.9 cx=126 cy=37 px=4761 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=6.4 vw=+1.1 cx=125 cy=38 px=4987 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=15.6 vw=+0.9 cx=125 cy=41 px=5321 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=25.8 vw=+7.3 cx=126 cy=45 px=5808 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=33.9 vw=+5.8 cx=126 cy=49 px=6084 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=67.1 vw=+4.7 cx=126 cy=61 px=6170 fps=88
+state=-1 zone=LEFT move=MOVE DOWN -89deg z=HOLD v=90.0 vw=+3.7 cx=126 cy=65 px=6198 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -84deg z=NEAR v=116.2 vw=+28.0 cx=129 cy=79 px=6451 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -83deg z=NEAR v=142.6 vw=+36.4 cx=131 cy=93 px=6477 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -81deg z=NEAR v=154.8 vw=+38.4 cx=136 cy=110 px=6632 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -81deg z=NEAR v=144.8 vw=+37.6 cx=137 cy=116 px=6668 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -80deg z=NEAR v=140.1 vw=+34.9 cx=139 cy=126 px=6675 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -78deg z=NEAR v=129.4 vw=+27.9 cx=141 cy=131 px=6612 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -76deg z=NEAR v=114.7 vw=+29.0 cx=143 cy=134 px=6644 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -77deg z=NEAR v=100.7 vw=+23.2 cx=143 cy=138 px=6710 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -76deg z=NEAR v=84.7 vw=+25.5 cx=144 cy=139 px=6667 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -80deg z=NEAR v=77.0 vw=+20.4 cx=143 cy=142 px=6491 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=65.7 vw=+16.3 cx=144 cy=143 px=6423 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=52.5 vw=+6.5 cx=144 cy=143 px=6534 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=50.6 vw=+22.6 cx=144 cy=144 px=6555 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=40.5 vw=+22.6 cx=144 cy=144 px=6522 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=23.4 vw=+18.1 cx=145 cy=141 px=6743 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=18.7 vw=-3.7 cx=145 cy=141 px=6798 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=11.1 vw=-3.0 cx=144 cy=140 px=6817 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=10.3 vw=-2.4 cx=145 cy=140 px=6758 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=8.6 vw=+1.4 cx=146 cy=139 px=6702 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=4.1 vw=+4.5 cx=145 cy=139 px=6792 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=6.1 vw=+3.6 cx=145 cy=140 px=6796 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=4.9 vw=+2.9 cx=145 cy=140 px=6803 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=3.9 vw=+2.3 cx=145 cy=140 px=6778 fps=90
+state=-1 zone=LEFT move=STOP z=FAR v=10.7 vw=-16.3 cx=146 cy=140 px=6783 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=8.6 vw=-6.9 cx=146 cy=140 px=6774 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=6.9 vw=-12.6 cx=146 cy=140 px=6728 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=2.7 vw=-10.0 cx=145 cy=139 px=6769 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=5.0 vw=-8.0 cx=145 cy=138 px=6665 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=4.0 vw=-6.4 cx=145 cy=138 px=6699 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=3.2 vw=-8.4 cx=145 cy=138 px=6676 fps=90
+state=-1 zone=LEFT move=STOP z=HOLD v=11.6 vw=+2.4 cx=145 cy=137 px=6699 fps=91
+state=-1 zone=LEFT move=STOP z=HOLD v=9.3 vw=+1.9 cx=145 cy=137 px=6699 fps=91
+state=-1 zone=LEFT move=STOP z=HOLD v=7.9 vw=+1.5 cx=146 cy=137 px=6670 fps=91
+state=-1 zone=LEFT move=STOP z=HOLD v=6.0 vw=+1.2 cx=145 cy=137 px=6722 fps=91
+state=-1 zone=LEFT move=STOP z=FAR v=4.8 vw=-16.4 cx=145 cy=137 px=6712 fps=91
+state=-1 zone=LEFT move=STOP z=HOLD v=3.8 vw=-6.9 cx=145 cy=137 px=6705 fps=91
+state=-1 zone=LEFT move=STOP z=HOLD v=5.0 vw=-5.5 cx=144 cy=137 px=6750 fps=91
+state=-1 zone=LEFT move=STOP z=HOLD v=4.0 vw=-4.4 cx=144 cy=137 px=6770 fps=91
+state=-1 zone=LEFT move=STOP z=HOLD v=3.2 vw=-3.5 cx=144 cy=137 px=6764 fps=91
+state=-1 zone=LEFT move=STOP z=HOLD v=2.5 vw=-2.8 cx=144 cy=137 px=6722 fps=92
+state=-1 zone=LEFT move=STOP z=HOLD v=2.0 vw=-2.3 cx=144 cy=137 px=6693 fps=92
+state=-1 zone=LEFT move=STOP z=HOLD v=1.6 vw=-1.8 cx=144 cy=137 px=6736 fps=92
+state=-1 zone=LEFT move=STOP z=HOLD v=1.3 vw=-1.4 cx=144 cy=137 px=6728 fps=92
+state=-1 zone=LEFT move=STOP z=HOLD v=4.7 vw=-1.2 cx=145 cy=136 px=6733 fps=92
+state=-1 zone=LEFT move=STOP z=HOLD v=6.3 vw=-0.9 cx=146 cy=136 px=6694 fps=92
+state=-1 zone=LEFT move=STOP z=HOLD v=9.7 vw=-0.7 cx=147 cy=135 px=6655 fps=92
+state=-1 zone=LEFT move=STOP z=HOLD v=26.4 vw=+6.4 cx=152 cy=133 px=6571 fps=92
+state=-1 zone=LEFT move=STOP z=HOLD v=48.7 vw=+5.1 cx=159 cy=128 px=6159 fps=92
+state=0 zone=CENTER move=STOP z=HOLD v=68.7 vw=+4.1 cx=162 cy=127 px=6063 fps=92
+state=0 zone=CENTER move=MOVE RIGHT 28deg z=HOLD v=88.5 vw=+3.3 cx=171 cy=121 px=5552 fps=92
+state=0 zone=CENTER move=MOVE RIGHT 31deg z=HOLD v=108.5 vw=-0.7 cx=180 cy=114 px=5010 fps=92
+state=0 zone=CENTER move=MOVE RIGHT 28deg z=FAR v=116.6 vw=-50.0 cx=193 cy=110 px=4347 fps=92
+state=1 zone=RIGHT move=MOVE RIGHT 30deg z=FAR v=114.4 vw=-20.0 cx=198 cy=106 px=4280 fps=92
+state=1 zone=RIGHT move=MOVE RIGHT 30deg z=HOLD v=103.3 vw=-2.9 cx=201 cy=104 px=4141 fps=92
+state=1 zone=RIGHT move=MOVE RIGHT 29deg z=HOLD v=97.8 vw=+4.5 cx=205 cy=102 px=4018 fps=92
+state=1 zone=RIGHT move=MOVE RIGHT 30deg z=HOLD v=82.7 vw=+6.9 cx=206 cy=101 px=4016 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=64.5 vw=+8.9 cx=206 cy=102 px=3924 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=51.6 vw=+4.8 cx=206 cy=102 px=3928 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=36.7 vw=+0.4 cx=205 cy=103 px=3984 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=28.2 vw=-3.0 cx=204 cy=102 px=3989 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=22.5 vw=-2.4 cx=204 cy=102 px=3991 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=13.6 vw=-5.1 cx=203 cy=103 px=4028 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=12.9 vw=-4.1 cx=203 cy=102 px=4055 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=10.4 vw=-3.3 cx=203 cy=102 px=4059 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=6.3 vw=-2.6 cx=202 cy=102 px=4067 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=5.1 vw=-5.5 cx=202 cy=102 px=4089 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=4.1 vw=-4.4 cx=202 cy=102 px=4102 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=3.2 vw=-3.5 cx=202 cy=102 px=4098 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=2.6 vw=-2.8 cx=202 cy=102 px=4108 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=2.4 vw=-4.6 cx=201 cy=102 px=4128 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=1.9 vw=-3.7 cx=201 cy=102 px=4175 fps=92
+state=1 zone=RIGHT move=STOP z=HOLD v=1.5 vw=-2.9 cx=201 cy=102 px=4172 fps=93
+state=1 zone=RIGHT move=STOP z=HOLD v=4.1 vw=-5.5 cx=200 cy=102 px=4211 fps=93
+state=1 zone=RIGHT move=STOP z=HOLD v=3.2 vw=-4.4 cx=200 cy=102 px=4189 fps=93
+state=1 zone=RIGHT move=STOP z=HOLD v=2.6 vw=-3.5 cx=200 cy=102 px=4199 fps=93
+state=1 zone=RIGHT move=STOP z=HOLD v=5.2 vw=-5.9 cx=199 cy=102 px=4203 fps=93
+state=1 zone=RIGHT move=STOP z=HOLD v=1.9 vw=-4.8 cx=200 cy=102 px=4182 fps=93
+state=1 zone=RIGHT move=STOP z=HOLD v=3.9 vw=-3.8 cx=200 cy=101 px=4200 fps=93
+state=1 zone=RIGHT move=STOP z=HOLD v=12.0 vw=-3.0 cx=199 cy=102 px=4199 fps=93
+state=1 zone=RIGHT move=STOP z=HOLD v=9.6 vw=-5.5 cx=199 cy=102 px=4228 fps=93
+state=1 zone=RIGHT move=STOP z=HOLD v=15.1 vw=-7.7 cx=197 cy=103 px=4316 fps=93
+state=1 zone=RIGHT move=STOP z=FAR v=21.5 vw=-16.4 cx=195 cy=105 px=4347 fps=93
+state=1 zone=RIGHT move=STOP z=FAR v=29.2 vw=-19.8 cx=192 cy=107 px=4380 fps=93
+state=1 zone=RIGHT move=STOP z=NEAR v=49.2 vw=+58.8 cx=184 cy=108 px=4869 fps=93
+state=1 zone=RIGHT move=STOP z=NEAR v=63.4 vw=+53.8 cx=178 cy=112 px=5197 fps=93
+state=1 zone=RIGHT move=MOVE LEFT -149deg z=NEAR v=85.8 vw=+43.0 cx=169 cy=119 px=5864 fps=93
+state=1 zone=RIGHT move=MOVE LEFT -147deg z=NEAR v=100.8 vw=+34.4 cx=161 cy=125 px=6649 fps=93
+state=0 zone=CENTER move=MOVE LEFT -148deg z=NEAR v=122.3 vw=+44.2 cx=150 cy=131 px=7545 fps=93
+state=0 zone=CENTER move=MOVE LEFT -150deg z=NEAR v=138.9 vw=+33.1 cx=134 cy=139 px=8290 fps=93
+state=0 zone=CENTER move=MOVE LEFT -153deg z=NEAR v=144.7 vw=+33.0 cx=124 cy=142 px=9016 fps=93
+state=-1 zone=LEFT move=MOVE LEFT -156deg z=HOLD v=139.7 vw=+1.4 cx=116 cy=143 px=9076 fps=93
+state=-1 zone=LEFT move=MOVE LEFT -157deg z=NEAR v=141.2 vw=+28.7 cx=108 cy=146 px=9672 fps=93
+state=-1 zone=LEFT move=MOVE LEFT -158deg z=NEAR v=139.8 vw=+23.0 cx=100 cy=148 px=9890 fps=93
+state=-1 zone=LEFT move=MOVE LEFT -161deg z=NEAR v=137.3 vw=+18.4 cx=89 cy=149 px=10062 fps=93
+state=-1 zone=LEFT move=MOVE LEFT -162deg z=NEAR v=127.0 vw=+18.1 cx=84 cy=150 px=10099 fps=93
+state=-1 zone=LEFT move=MOVE LEFT -163deg z=HOLD v=107.9 vw=+11.2 cx=82 cy=150 px=10107 fps=93
+state=-1 zone=LEFT move=MOVE LEFT -164deg z=HOLD v=89.5 vw=+9.0 cx=81 cy=150 px=10050 fps=93
+state=-1 zone=LEFT move=MOVE LEFT -164deg z=HOLD v=71.6 vw=+7.2 cx=81 cy=150 px=10103 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=56.5 vw=+5.7 cx=81 cy=149 px=10085 fps=92
+state=-1 zone=LEFT move=STOP z=HOLD v=42.5 vw=+9.3 cx=82 cy=148 px=10026 fps=92
+state=-1 zone=LEFT move=STOP z=HOLD v=33.5 vw=+0.7 cx=82 cy=147 px=9987 fps=92
+state=-1 zone=LEFT move=STOP z=HOLD v=26.8 vw=+0.5 cx=82 cy=147 px=10014 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=21.5 vw=-2.8 cx=82 cy=147 px=9972 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=17.3 vw=-2.2 cx=82 cy=146 px=9969 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=13.8 vw=+1.6 cx=82 cy=146 px=9960 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=14.4 vw=+1.3 cx=81 cy=146 px=9921 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=12.3 vw=-2.3 cx=81 cy=145 px=9902 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=11.4 vw=-1.8 cx=81 cy=144 px=9816 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=7.6 vw=+1.9 cx=81 cy=145 px=9978 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=6.1 vw=+1.5 cx=81 cy=145 px=9992 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=2.0 vw=-5.2 cx=82 cy=145 px=9895 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=1.6 vw=+0.5 cx=83 cy=145 px=9974 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=1.3 vw=+0.4 cx=83 cy=145 px=9897 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=1.0 vw=+0.3 cx=83 cy=145 px=9992 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=0.8 vw=+0.3 cx=83 cy=145 px=10034 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=0.7 vw=+0.2 cx=83 cy=145 px=10023 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=0.5 vw=+0.2 cx=83 cy=145 px=10000 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=0.4 vw=+0.1 cx=83 cy=145 px=10019 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=2.6 vw=+0.1 cx=83 cy=144 px=10035 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=2.1 vw=+0.1 cx=83 cy=144 px=10031 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=1.7 vw=+0.1 cx=83 cy=144 px=10053 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=3.8 vw=+0.1 cx=84 cy=144 px=10043 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=3.1 vw=+0.0 cx=84 cy=144 px=10047 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=1.3 vw=+0.0 cx=83 cy=144 px=10060 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=1.7 vw=+0.0 cx=84 cy=144 px=10129 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=1.4 vw=+3.4 cx=84 cy=144 px=10143 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=1.1 vw=+11.8 cx=84 cy=144 px=10053 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=0.9 vw=+9.5 cx=84 cy=144 px=10150 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=4.0 vw=+0.9 cx=85 cy=144 px=10183 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=6.8 vw=+0.7 cx=86 cy=144 px=10139 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=5.4 vw=+18.0 cx=86 cy=144 px=10159 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=9.1 vw=+14.4 cx=88 cy=143 px=10158 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=25.1 vw=+11.5 cx=93 cy=142 px=10082 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=31.7 vw=+9.2 cx=94 cy=141 px=10041 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=52.2 vw=+17.2 cx=102 cy=139 px=9798 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=63.6 vw=+10.5 cx=108 cy=136 px=9404 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=83.7 vw=-19.7 cx=116 cy=131 px=8503 fps=94
+state=-1 zone=LEFT move=MOVE RIGHT 20deg z=NEAR v=115.5 vw=+36.0 cx=130 cy=128 px=8658 fps=94
+state=-1 zone=LEFT move=MOVE RIGHT 21deg z=NEAR v=126.3 vw=+25.3 cx=139 cy=124 px=8237 fps=94
+state=-1 zone=LEFT move=MOVE RIGHT 20deg z=NEAR v=121.1 vw=+25.0 cx=147 cy=121 px=7339 fps=93
+state=-1 zone=LEFT move=MOVE RIGHT 22deg z=HOLD v=109.1 vw=+13.1 cx=150 cy=119 px=7006 fps=93
+state=-1 zone=LEFT move=MOVE RIGHT 23deg z=HOLD v=91.7 vw=+10.5 cx=151 cy=118 px=6857 fps=93
+state=-1 zone=LEFT move=MOVE RIGHT 25deg z=HOLD v=72.2 vw=+1.5 cx=150 cy=117 px=6771 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=54.8 vw=+1.2 cx=149 cy=117 px=6754 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=48.7 vw=+0.9 cx=149 cy=116 px=6759 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=38.9 vw=-5.5 cx=149 cy=116 px=6761 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=29.3 vw=+8.7 cx=149 cy=117 px=6859 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=20.6 vw=-3.2 cx=148 cy=117 px=6900 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=16.5 vw=-2.6 cx=148 cy=117 px=6943 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=13.2 vw=-2.0 cx=148 cy=117 px=6949 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=13.3 vw=+1.6 cx=149 cy=117 px=6927 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=15.4 vw=-5.6 cx=150 cy=116 px=6831 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=12.3 vw=+4.6 cx=150 cy=116 px=6788 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=12.5 vw=+3.7 cx=151 cy=116 px=6741 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=11.9 vw=+2.9 cx=151 cy=115 px=6748 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=9.5 vw=+5.8 cx=151 cy=115 px=6715 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=7.6 vw=-2.1 cx=151 cy=115 px=6655 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=10.6 vw=-1.7 cx=152 cy=114 px=6622 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=8.5 vw=-1.4 cx=152 cy=114 px=6606 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=6.8 vw=-1.1 cx=152 cy=114 px=6615 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=7.0 vw=+2.2 cx=150 cy=113 px=6374 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=5.6 vw=+1.7 cx=150 cy=113 px=6381 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=4.5 vw=-2.0 cx=150 cy=113 px=6348 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=3.6 vw=-10.3 cx=150 cy=113 px=6371 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=2.9 vw=-8.2 cx=150 cy=113 px=6360 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=2.3 vw=-6.6 cx=150 cy=113 px=6355 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=1.8 vw=+1.4 cx=150 cy=113 px=6342 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=1.5 vw=+1.1 cx=150 cy=113 px=6332 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=1.2 vw=-3.4 cx=150 cy=113 px=6336 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=0.9 vw=-2.8 cx=150 cy=113 px=6346 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=0.8 vw=+15.2 cx=150 cy=113 px=6369 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=2.6 vw=+9.0 cx=150 cy=114 px=6344 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=2.1 vw=+7.2 cx=150 cy=114 px=6728 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=1.7 vw=+5.7 cx=150 cy=114 px=6744 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=4.7 vw=+4.6 cx=150 cy=115 px=6822 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=3.8 vw=+3.7 cx=150 cy=115 px=6855 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=3.0 vw=+2.9 cx=150 cy=115 px=6823 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=2.4 vw=+2.4 cx=150 cy=115 px=6838 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=1.9 vw=-1.3 cx=150 cy=115 px=6855 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=5.9 vw=+2.2 cx=149 cy=116 px=6896 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=11.1 vw=+5.2 cx=149 cy=118 px=6981 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=19.1 vw=+7.6 cx=149 cy=121 px=7138 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=28.9 vw=+16.1 cx=151 cy=125 px=7330 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=34.0 vw=+19.8 cx=152 cy=128 px=7397 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=28.1 vw=+15.8 cx=153 cy=128 px=7450 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=22.5 vw=+12.7 cx=153 cy=128 px=7485 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=12.3 vw=+7.0 cx=153 cy=126 px=7333 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=2.6 vw=+3.2 cx=152 cy=122 px=7203 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=11.4 vw=-8.0 cx=151 cy=119 px=6995 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=17.8 vw=+11.0 cx=151 cy=118 px=6968 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=21.6 vw=+2.7 cx=149 cy=116 px=6957 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=29.2 vw=-4.6 cx=147 cy=113 px=6643 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=31.0 vw=-7.1 cx=146 cy=111 px=6766 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=26.5 vw=-9.2 cx=145 cy=111 px=6839 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=28.9 vw=-10.8 cx=144 cy=109 px=6888 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=24.9 vw=-5.4 cx=143 cy=109 px=6902 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=24.6 vw=-7.6 cx=142 cy=108 px=6926 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=19.7 vw=-6.1 cx=142 cy=108 px=6947 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=15.9 vw=-8.1 cx=141 cy=109 px=7046 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=12.7 vw=-1.8 cx=141 cy=109 px=7091 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=5.6 vw=-1.4 cx=142 cy=110 px=7147 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=4.5 vw=-10.7 cx=142 cy=110 px=7179 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=3.6 vw=-8.5 cx=142 cy=111 px=7095 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=3.3 vw=-0.3 cx=142 cy=110 px=7119 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=2.6 vw=-6.9 cx=142 cy=110 px=7148 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=10.5 vw=-5.5 cx=142 cy=109 px=7159 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=9.1 vw=-6.7 cx=141 cy=109 px=7051 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=6.7 vw=-1.9 cx=142 cy=109 px=7114 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=5.3 vw=-1.5 cx=142 cy=109 px=7088 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=4.3 vw=-1.2 cx=142 cy=109 px=7048 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=3.4 vw=-1.0 cx=142 cy=109 px=7094 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=4.3 vw=+6.2 cx=141 cy=109 px=7114 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=2.9 vw=+1.7 cx=141 cy=110 px=7226 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=11.6 vw=+1.3 cx=141 cy=113 px=7300 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=19.6 vw=+4.5 cx=141 cy=116 px=7363 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=28.7 vw=+3.6 cx=141 cy=120 px=7513 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=41.9 vw=+21.1 cx=142 cy=122 px=7588 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=46.4 vw=+23.1 cx=143 cy=126 px=7692 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=56.3 vw=+28.0 cx=144 cy=134 px=7839 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=53.6 vw=+13.7 cx=144 cy=135 px=7886 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=62.8 vw=+20.8 cx=145 cy=141 px=8064 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=64.2 vw=+16.6 cx=146 cy=145 px=8129 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=65.3 vw=+20.1 cx=147 cy=149 px=8229 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=66.1 vw=+16.1 cx=147 cy=153 px=7981 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=61.9 vw=+31.0 cx=147 cy=154 px=8055 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=61.2 vw=+31.5 cx=149 cy=159 px=8296 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=59.0 vw=+22.0 cx=150 cy=162 px=8531 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=54.6 vw=+24.4 cx=151 cy=164 px=8668 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=55.1 vw=+1.3 cx=152 cy=165 px=8708 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=51.1 vw=+10.6 cx=153 cy=167 px=8823 fps=93
+state=0 zone=CENTER move=STOP z=NEAR v=45.4 vw=+18.8 cx=154 cy=168 px=8860 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=42.9 vw=+10.3 cx=154 cy=171 px=8695 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=34.3 vw=+8.3 cx=154 cy=171 px=8730 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=30.5 vw=+13.1 cx=154 cy=172 px=8852 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=24.4 vw=+10.5 cx=154 cy=172 px=8909 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=23.9 vw=+8.4 cx=155 cy=173 px=9008 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=23.7 vw=+6.7 cx=156 cy=174 px=9102 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=19.0 vw=+11.9 cx=156 cy=174 px=9154 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=18.4 vw=+2.5 cx=156 cy=175 px=9152 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=17.9 vw=+8.8 cx=156 cy=176 px=9195 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=18.5 vw=+7.0 cx=157 cy=177 px=9270 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=14.8 vw=+5.6 cx=157 cy=177 px=9307 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=14.9 vw=+4.5 cx=157 cy=178 px=9266 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=11.9 vw=+3.6 cx=157 cy=178 px=9262 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=12.7 vw=+2.9 cx=157 cy=179 px=9232 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=10.2 vw=+11.4 cx=157 cy=179 px=9235 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=8.1 vw=+5.9 cx=157 cy=179 px=9241 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=6.6 vw=+11.8 cx=156 cy=179 px=9251 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=7.1 vw=+2.4 cx=155 cy=179 px=9289 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=5.7 vw=+1.9 cx=155 cy=179 px=9310 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=3.2 vw=+1.5 cx=155 cy=178 px=9310 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=2.6 vw=+1.2 cx=155 cy=178 px=9269 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=4.1 vw=+1.0 cx=155 cy=177 px=9255 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=3.3 vw=+0.8 cx=155 cy=177 px=9276 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=7.2 vw=-5.9 cx=154 cy=176 px=9234 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=8.7 vw=-4.7 cx=154 cy=175 px=9199 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=15.4 vw=-8.5 cx=152 cy=172 px=8888 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=20.7 vw=+11.4 cx=152 cy=171 px=8803 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=33.6 vw=+2.8 cx=150 cy=166 px=8888 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=44.0 vw=-11.8 cx=147 cy=162 px=8688 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=50.9 vw=-9.5 cx=145 cy=158 px=8500 fps=93
+state=0 zone=CENTER move=STOP z=HOLD v=51.3 vw=-14.4 cx=144 cy=155 px=8362 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=62.6 vw=-14.8 cx=144 cy=148 px=8424 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=66.0 vw=-8.4 cx=145 cy=143 px=8169 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=65.6 vw=-20.1 cx=146 cy=139 px=8082 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=62.5 vw=-16.1 cx=146 cy=136 px=8064 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=69.2 vw=-31.0 cx=145 cy=134 px=8008 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=68.0 vw=-24.8 cx=144 cy=130 px=8020 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=64.2 vw=-29.4 cx=143 cy=126 px=7932 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=80.0 vw=-14.4 cx=142 cy=123 px=7914 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=74.0 vw=-14.7 cx=141 cy=120 px=7938 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=73.4 vw=-25.6 cx=140 cy=116 px=7950 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=71.5 vw=-20.4 cx=140 cy=112 px=7867 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=71.4 vw=-23.3 cx=139 cy=108 px=7860 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=65.7 vw=-18.6 cx=139 cy=107 px=7876 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=62.2 vw=-19.4 cx=137 cy=103 px=7821 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=60.5 vw=-22.3 cx=136 cy=100 px=7793 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=57.2 vw=-17.8 cx=136 cy=99 px=7761 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=49.0 vw=-14.3 cx=136 cy=98 px=7717 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=39.2 vw=-14.8 cx=136 cy=98 px=7655 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=34.7 vw=-11.8 cx=136 cy=97 px=7623 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=31.9 vw=-9.5 cx=135 cy=96 px=7571 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=25.5 vw=-10.9 cx=135 cy=96 px=7621 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=21.5 vw=-5.3 cx=134 cy=96 px=7598 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=16.2 vw=-0.8 cx=135 cy=96 px=7539 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=4.2 vw=-19.7 cx=135 cy=97 px=7540 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=3.4 vw=-12.7 cx=135 cy=97 px=7479 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=1.9 vw=-10.2 cx=135 cy=98 px=7530 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=9.1 vw=-8.1 cx=135 cy=99 px=7543 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=23.4 vw=-9.7 cx=135 cy=104 px=7637 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=39.3 vw=+5.8 cx=134 cy=110 px=7844 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=55.9 vw=+11.6 cx=134 cy=117 px=8047 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=71.9 vw=+18.4 cx=134 cy=120 px=8140 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -93deg z=NEAR v=95.8 vw=+24.2 cx=133 cy=132 px=8434 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -93deg z=NEAR v=114.8 vw=+28.9 cx=132 cy=148 px=8612 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -92deg z=NEAR v=119.4 vw=+30.0 cx=132 cy=156 px=8935 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -92deg z=NEAR v=112.1 vw=+24.0 cx=132 cy=161 px=9082 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -92deg z=NEAR v=93.2 vw=+26.1 cx=132 cy=162 px=9188 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=67.8 vw=+20.9 cx=131 cy=160 px=9168 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=40.3 vw=+12.1 cx=131 cy=154 px=8878 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=6.7 vw=+6.3 cx=131 cy=146 px=8580 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=23.2 vw=+5.1 cx=131 cy=143 px=8401 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=52.8 vw=-5.3 cx=131 cy=132 px=8399 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=76.7 vw=-11.2 cx=131 cy=122 px=8376 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=79.1 vw=-15.9 cx=130 cy=117 px=8321 fps=93
+state=-1 zone=LEFT move=MOVE UP 92deg z=FAR v=90.8 vw=-16.2 cx=130 cy=109 px=8226 fps=93
+state=-1 zone=LEFT move=MOVE UP 96deg z=FAR v=97.7 vw=-23.5 cx=128 cy=102 px=7819 fps=93
+state=-1 zone=LEFT move=MOVE UP 95deg z=FAR v=94.5 vw=-25.4 cx=128 cy=97 px=7688 fps=93
+state=-1 zone=LEFT move=MOVE UP 96deg z=FAR v=82.7 vw=-23.7 cx=127 cy=95 px=7665 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=69.4 vw=-22.2 cx=127 cy=94 px=7645 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=51.8 vw=-17.8 cx=128 cy=95 px=7582 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=32.3 vw=-9.7 cx=129 cy=99 px=7594 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=16.8 vw=-7.7 cx=129 cy=100 px=7609 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=6.5 vw=-3.0 cx=128 cy=106 px=7690 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=37.9 vw=+0.9 cx=128 cy=116 px=8153 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=51.3 vw=-54.4 cx=123 cy=121 px=7259 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=65.3 vw=+138.3 cx=125 cy=124 px=7576 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -84deg z=NEAR v=88.1 vw=+117.1 cx=127 cy=135 px=8248 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -84deg z=NEAR v=94.4 vw=+100.8 cx=128 cy=145 px=8658 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -83deg z=NEAR v=89.9 vw=+91.2 cx=129 cy=149 px=8696 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -85deg z=NEAR v=75.0 vw=+72.9 cx=128 cy=150 px=8719 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=49.7 vw=+51.6 cx=127 cy=147 px=8621 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=23.2 vw=+34.6 cx=126 cy=142 px=8456 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=15.5 vw=+22.9 cx=123 cy=129 px=7833 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=45.2 vw=-145.3 cx=121 cy=126 px=7514 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=63.0 vw=-122.6 cx=120 cy=117 px=7726 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=76.7 vw=-98.1 cx=120 cy=109 px=7945 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=78.4 vw=-78.5 cx=120 cy=104 px=7909 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=75.9 vw=-62.8 cx=120 cy=100 px=7711 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=69.7 vw=-68.4 cx=120 cy=99 px=7654 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=59.9 vw=-59.2 cx=121 cy=97 px=7436 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=51.2 vw=-47.3 cx=122 cy=96 px=7357 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=40.9 vw=-37.9 cx=122 cy=96 px=7359 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=32.8 vw=-30.3 cx=122 cy=96 px=7389 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=22.8 vw=-24.2 cx=122 cy=97 px=7400 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=18.3 vw=-19.4 cx=122 cy=97 px=7484 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=14.6 vw=-15.5 cx=122 cy=97 px=7576 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=12.3 vw=-12.4 cx=121 cy=97 px=7663 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=9.8 vw=-3.3 cx=121 cy=97 px=7794 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=16.7 vw=-11.7 cx=121 cy=96 px=7827 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=14.2 vw=-6.1 cx=120 cy=96 px=7892 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=8.4 vw=-4.9 cx=120 cy=97 px=7917 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=8.1 vw=+0.8 cx=119 cy=97 px=8034 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=6.5 vw=+0.6 cx=119 cy=97 px=8065 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=7.7 vw=+0.5 cx=118 cy=97 px=8182 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=6.2 vw=+7.3 cx=118 cy=97 px=8254 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=15.0 vw=+5.8 cx=117 cy=98 px=8314 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=12.0 vw=+4.7 cx=117 cy=98 px=8379 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=23.7 vw=+10.5 cx=114 cy=101 px=8673 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=46.3 vw=+18.1 cx=108 cy=111 px=9080 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=77.2 vw=+32.6 cx=106 cy=115 px=9068 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -109deg z=NEAR v=111.2 vw=+32.3 cx=105 cy=132 px=9235 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -101deg z=NEAR v=131.4 vw=+46.6 cx=106 cy=145 px=9434 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -94deg z=NEAR v=159.8 vw=+40.8 cx=108 cy=161 px=9523 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -94deg z=NEAR v=151.9 vw=+36.1 cx=108 cy=168 px=9547 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -102deg z=NEAR v=109.4 vw=+19.3 cx=102 cy=162 px=9216 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=64.7 vw=+8.6 cx=99 cy=154 px=8999 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=27.0 vw=-3.5 cx=98 cy=139 px=8725 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=58.8 vw=-6.3 cx=97 cy=125 px=8604 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=65.8 vw=-5.0 cx=98 cy=119 px=8668 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=71.8 vw=-21.4 cx=97 cy=117 px=8722 fps=93
+state=-1 zone=LEFT move=STOP z=FAR v=53.9 vw=-21.7 cx=96 cy=119 px=8760 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=29.1 vw=-10.5 cx=97 cy=123 px=8775 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=3.0 vw=+9.8 cx=98 cy=125 px=8834 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=30.2 vw=+26.6 cx=101 cy=135 px=9116 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=69.4 vw=+35.6 cx=105 cy=147 px=9625 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -76deg z=NEAR v=101.5 vw=+28.5 cx=107 cy=161 px=10115 fps=93
+state=-1 zone=LEFT move=MOVE DOWN -80deg z=NEAR v=96.7 vw=+29.7 cx=106 cy=168 px=10224 fps=93
+state=-1 zone=LEFT move=STOP z=NEAR v=69.9 vw=+27.3 cx=105 cy=166 px=10178 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=15.4 vw=+15.2 cx=103 cy=154 px=9930 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=33.2 vw=+3.0 cx=103 cy=149 px=9798 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=78.9 vw=-12.9 cx=102 cy=132 px=9385 fps=93
+state=-1 zone=LEFT move=MOVE UP 89deg z=FAR v=116.7 vw=-24.6 cx=103 cy=117 px=9081 fps=93
+state=-1 zone=LEFT move=MOVE UP 87deg z=FAR v=122.4 vw=-29.4 cx=105 cy=105 px=8760 fps=93
+state=-1 zone=LEFT move=MOVE UP 87deg z=FAR v=105.1 vw=-30.6 cx=105 cy=103 px=8697 fps=93
+state=-1 zone=LEFT move=MOVE UP 86deg z=FAR v=74.1 vw=-21.2 cx=105 cy=106 px=8634 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=36.2 vw=-7.1 cx=104 cy=113 px=8647 fps=93
+state=-1 zone=LEFT move=STOP z=HOLD v=9.1 vw=-5.7 cx=104 cy=117 px=8707 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=44.3 vw=+13.9 cx=103 cy=129 px=9161 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=79.1 vw=+20.3 cx=103 cy=148 px=9685 fps=94
+state=-1 zone=LEFT move=MOVE DOWN -91deg z=NEAR v=94.8 vw=+26.8 cx=103 cy=157 px=10008 fps=94
+state=-1 zone=LEFT move=MOVE DOWN -91deg z=NEAR v=89.7 vw=+31.8 cx=103 cy=161 px=10112 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=64.9 vw=+28.9 cx=102 cy=159 px=10035 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=35.3 vw=+4.1 cx=101 cy=157 px=9926 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=21.0 vw=-6.2 cx=98 cy=147 px=9815 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=50.5 vw=-14.6 cx=98 cy=129 px=9404 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=82.9 vw=-25.3 cx=99 cy=116 px=9150 fps=94
+state=-1 zone=LEFT move=MOVE UP 89deg z=FAR v=102.2 vw=-38.4 cx=100 cy=112 px=9163 fps=94
+state=-1 zone=LEFT move=MOVE UP 89deg z=FAR v=101.5 vw=-34.0 cx=100 cy=106 px=9210 fps=94
+state=-1 zone=LEFT move=MOVE UP 87deg z=FAR v=91.8 vw=-30.7 cx=101 cy=103 px=9333 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=57.3 vw=-24.6 cx=101 cy=108 px=9134 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=16.7 vw=-10.5 cx=102 cy=121 px=8808 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=18.5 vw=-15.3 cx=100 cy=130 px=8821 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=31.3 vw=-3.1 cx=98 cy=131 px=8875 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=16.3 vw=-12.2 cx=98 cy=125 px=8552 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=31.9 vw=-16.8 cx=96 cy=118 px=8690 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=52.7 vw=-27.4 cx=90 cy=113 px=9678 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=28.2 vw=+6.6 cx=94 cy=128 px=10248 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=40.0 vw=+33.4 cx=104 cy=132 px=9574 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=36.4 vw=-0.9 cx=109 cy=122 px=8173 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=22.9 vw=-27.8 cx=96 cy=119 px=9302 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=22.2 vw=-22.3 cx=95 cy=121 px=9423 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=26.5 vw=+1.9 cx=104 cy=127 px=8924 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=8.5 vw=-5.7 cx=102 cy=122 px=8888 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=43.8 vw=-33.1 cx=97 cy=121 px=9353 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=55.8 vw=-20.0 cx=91 cy=126 px=10139 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=27.2 vw=-2.5 cx=100 cy=130 px=9477 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=47.0 vw=-30.5 cx=90 cy=122 px=9374 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=75.8 vw=-33.1 cx=86 cy=120 px=9408 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=50.7 vw=-10.1 cx=88 cy=126 px=9845 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=17.0 vw=+1.6 cx=101 cy=132 px=9286 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=38.7 vw=-8.6 cx=92 cy=125 px=9633 fps=94
+state=-1 zone=LEFT move=MOVE LEFT 146deg z=FAR v=100.3 vw=-34.1 cx=86 cy=120 px=9755 fps=94
+state=-1 zone=LEFT move=MOVE LEFT 148deg z=FAR v=102.1 vw=-27.3 cx=80 cy=117 px=10403 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=36.5 vw=-1.5 cx=90 cy=132 px=10008 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=27.1 vw=-1.2 cx=93 cy=136 px=9656 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=30.9 vw=-10.4 cx=89 cy=121 px=10423 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=27.0 vw=-1.4 cx=89 cy=120 px=10876 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=13.7 vw=+17.1 cx=90 cy=123 px=10796 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=40.8 vw=+20.0 cx=96 cy=132 px=10009 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=19.7 vw=+9.0 cx=97 cy=127 px=9641 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=40.7 vw=+0.4 cx=92 cy=112 px=10528 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=26.4 vw=-6.3 cx=89 cy=115 px=10581 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=10.7 vw=-5.1 cx=92 cy=123 px=9819 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=29.0 vw=-4.1 cx=96 cy=128 px=9002 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=22.9 vw=-3.2 cx=97 cy=127 px=8957 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=25.0 vw=-8.8 cx=96 cy=117 px=9477 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=43.0 vw=+0.0 cx=96 cy=110 px=10433 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=19.2 vw=+2.4 cx=98 cy=118 px=10121 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=30.2 vw=+10.6 cx=99 cy=122 px=9789 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=45.1 vw=+11.8 cx=105 cy=125 px=8537 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=38.3 vw=-0.9 cx=108 cy=118 px=8669 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=27.6 vw=-0.7 cx=104 cy=112 px=9908 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=8.9 vw=-19.6 cx=103 cy=113 px=10018 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=29.8 vw=-15.7 cx=101 cy=124 px=9359 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=29.3 vw=-15.0 cx=105 cy=126 px=8104 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=5.2 vw=-15.4 cx=104 cy=118 px=8619 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=40.3 vw=+24.0 cx=101 cy=115 px=9269 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=46.7 vw=+2.5 cx=96 cy=114 px=9803 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=18.1 vw=+12.6 cx=100 cy=123 px=9150 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=17.4 vw=+10.1 cx=104 cy=126 px=8516 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=3.4 vw=-5.8 cx=104 cy=121 px=8477 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=26.2 vw=-4.6 cx=103 cy=114 px=9175 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=35.3 vw=+9.9 cx=106 cy=110 px=9356 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=35.0 vw=+7.9 cx=109 cy=109 px=9229 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=40.0 vw=+6.3 cx=111 cy=109 px=9016 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=46.8 vw=-4.3 cx=116 cy=108 px=8211 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=44.0 vw=-5.9 cx=118 cy=106 px=7901 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=41.5 vw=+8.9 cx=118 cy=103 px=8144 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=48.3 vw=-12.0 cx=118 cy=101 px=8160 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=50.1 vw=+53.9 cx=120 cy=98 px=8339 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=40.2 vw=-9.3 cx=118 cy=97 px=8134 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=37.7 vw=-4.1 cx=117 cy=95 px=8372 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=53.6 vw=+151.3 cx=119 cy=93 px=8813 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=44.8 vw=+118.8 cx=119 cy=92 px=8695 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=40.5 vw=+95.0 cx=120 cy=91 px=8371 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=32.4 vw=+85.1 cx=120 cy=91 px=8348 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=25.9 vw=+61.8 cx=120 cy=91 px=8345 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=20.7 vw=+56.4 cx=120 cy=91 px=8273 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=16.6 vw=+38.3 cx=120 cy=91 px=8223 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=13.3 vw=+30.7 cx=120 cy=91 px=8280 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=7.8 vw=+14.4 cx=120 cy=92 px=8275 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=6.2 vw=+8.2 cx=120 cy=92 px=8162 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=0.5 vw=-62.4 cx=119 cy=93 px=7942 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=9.2 vw=-40.4 cx=119 cy=94 px=7960 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=15.3 vw=-42.0 cx=117 cy=96 px=8247 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=26.5 vw=-10.4 cx=112 cy=100 px=9015 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=36.4 vw=-8.3 cx=110 cy=100 px=9022 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=37.8 vw=-3.5 cx=108 cy=102 px=9042 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=38.0 vw=+0.7 cx=106 cy=103 px=9073 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=30.4 vw=+0.6 cx=106 cy=103 px=9025 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=16.8 vw=+10.0 cx=107 cy=103 px=8998 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=15.6 vw=+8.0 cx=106 cy=103 px=8961 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=14.1 vw=+6.4 cx=106 cy=104 px=8721 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=8.1 vw=+8.6 cx=108 cy=104 px=8288 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=10.5 vw=+25.0 cx=109 cy=104 px=8150 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=11.2 vw=+13.6 cx=110 cy=104 px=7880 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=16.9 vw=+18.0 cx=112 cy=105 px=7747 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=16.7 vw=+7.4 cx=113 cy=105 px=7664 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=16.6 vw=-0.9 cx=114 cy=105 px=7645 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=16.6 vw=-0.7 cx=115 cy=105 px=7650 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=14.5 vw=-0.6 cx=115 cy=106 px=7726 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=8.6 vw=+6.6 cx=114 cy=106 px=7841 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=5.9 vw=+5.3 cx=113 cy=106 px=7818 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=9.2 vw=+4.2 cx=112 cy=107 px=7881 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=14.3 vw=+8.0 cx=109 cy=108 px=8182 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=20.5 vw=+6.4 cx=106 cy=108 px=8331 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=37.5 vw=-4.4 cx=104 cy=109 px=8449 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=43.2 vw=-0.3 cx=100 cy=110 px=8643 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=45.5 vw=-0.2 cx=97 cy=111 px=8797 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=49.8 vw=-7.2 cx=93 cy=111 px=9057 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=50.8 vw=-5.8 cx=92 cy=112 px=9129 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=51.7 vw=-0.2 cx=87 cy=113 px=9416 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=55.6 vw=-3.6 cx=83 cy=114 px=9659 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=62.0 vw=-12.0 cx=81 cy=114 px=9751 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=62.3 vw=-9.6 cx=77 cy=114 px=9944 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=63.4 vw=-7.7 cx=73 cy=114 px=10158 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=57.6 vw=-6.1 cx=71 cy=114 px=10270 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=60.7 vw=-8.5 cx=67 cy=115 px=10353 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=58.5 vw=-10.2 cx=64 cy=114 px=10439 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=53.8 vw=-8.2 cx=62 cy=114 px=10577 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=53.7 vw=-13.7 cx=59 cy=114 px=10560 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=51.7 vw=+6.4 cx=58 cy=114 px=10695 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=44.6 vw=+5.2 cx=57 cy=113 px=10665 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=31.0 vw=-0.5 cx=59 cy=114 px=10634 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=15.7 vw=+17.8 cx=60 cy=114 px=10630 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=8.1 vw=+20.8 cx=65 cy=116 px=10466 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=18.0 vw=+16.6 cx=69 cy=116 px=10257 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=34.3 vw=+19.8 cx=75 cy=117 px=10074 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=45.0 vw=+15.9 cx=80 cy=117 px=9803 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=54.0 vw=+12.7 cx=82 cy=117 px=9694 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=58.4 vw=+10.2 cx=89 cy=118 px=9292 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=66.7 vw=+8.1 cx=95 cy=118 px=8993 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=72.3 vw=+25.6 cx=97 cy=118 px=8871 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=74.0 vw=+20.4 cx=102 cy=118 px=8534 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=79.5 vw=+16.4 cx=108 cy=117 px=8188 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=77.9 vw=+5.9 cx=112 cy=117 px=7927 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=79.3 vw=-8.8 cx=117 cy=116 px=7534 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=77.5 vw=-24.6 cx=121 cy=116 px=7060 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=69.0 vw=-33.2 cx=123 cy=115 px=6766 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=72.4 vw=+28.6 cx=128 cy=115 px=6756 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=75.8 vw=+26.3 cx=133 cy=113 px=6383 fps=94
+state=-1 zone=LEFT move=MOVE RIGHT -5deg z=NEAR v=86.6 vw=+21.1 cx=136 cy=115 px=6545 fps=94
+state=-1 zone=LEFT move=MOVE RIGHT -3deg z=HOLD v=80.3 vw=+12.3 cx=141 cy=114 px=6256 fps=94
+state=-1 zone=LEFT move=MOVE RIGHT -3deg z=HOLD v=70.6 vw=+9.9 cx=143 cy=114 px=6168 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=66.6 vw=+7.9 cx=146 cy=113 px=5947 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=59.8 vw=+3.0 cx=148 cy=113 px=5856 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=58.3 vw=-1.0 cx=151 cy=112 px=5701 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=57.3 vw=+2.6 cx=154 cy=111 px=5518 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=56.5 vw=-8.6 cx=157 cy=111 px=5315 fps=94
+state=0 zone=CENTER move=STOP z=HOLD v=52.2 vw=-0.2 cx=159 cy=110 px=5181 fps=94
+state=0 zone=CENTER move=STOP z=HOLD v=52.2 vw=-7.2 cx=162 cy=110 px=5018 fps=94
+state=0 zone=CENTER move=STOP z=HOLD v=52.5 vw=-12.6 cx=165 cy=109 px=4866 fps=94
+state=0 zone=CENTER move=STOP z=HOLD v=42.0 vw=-10.1 cx=165 cy=109 px=4822 fps=94
+state=0 zone=CENTER move=STOP z=HOLD v=33.6 vw=-8.1 cx=165 cy=109 px=4867 fps=94
+state=0 zone=CENTER move=STOP z=HOLD v=21.9 vw=-11.2 cx=163 cy=110 px=5041 fps=94
+state=0 zone=CENTER move=STOP z=FAR v=7.7 vw=-18.9 cx=160 cy=111 px=5205 fps=94
+state=0 zone=CENTER move=STOP z=HOLD v=3.9 vw=-5.6 cx=159 cy=111 px=5327 fps=94
+state=0 zone=CENTER move=STOP z=HOLD v=22.3 vw=-7.7 cx=153 cy=112 px=5678 fps=94
+state=0 zone=CENTER move=STOP z=HOLD v=38.0 vw=-12.9 cx=147 cy=112 px=6041 fps=94
+state=0 zone=CENTER move=STOP z=HOLD v=54.0 vw=-13.7 cx=140 cy=111 px=6302 fps=94
+state=0 zone=CENTER move=STOP z=HOLD v=62.0 vw=-11.0 cx=138 cy=112 px=6379 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=65.1 vw=-11.1 cx=131 cy=110 px=6342 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=69.8 vw=-54.5 cx=126 cy=111 px=6429 fps=94
+state=-1 zone=LEFT move=STOP z=FAR v=59.1 vw=-36.7 cx=125 cy=110 px=6576 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=47.3 vw=-11.2 cx=125 cy=110 px=6662 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=44.2 vw=-2.6 cx=123 cy=110 px=6882 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=38.8 vw=-2.1 cx=122 cy=110 px=6923 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=31.0 vw=-1.6 cx=122 cy=110 px=6937 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=26.2 vw=-1.3 cx=122 cy=109 px=6862 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=14.9 vw=-7.6 cx=124 cy=109 px=6755 fps=94
+state=-1 zone=LEFT move=STOP z=HOLD v=7.4 vw=-13.1 cx=125 cy=110 px=6552 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=16.1 vw=+28.1 cx=131 cy=109 px=6380 fps=94
+state=-1 zone=LEFT move=STOP z=NEAR v=21.4 vw=+22.5 cx=132 cy=109 px=6283 fps=95
+state=-1 zone=LEFT move=STOP z=NEAR v=34.9 vw=+20.2 cx=140 cy=112 px=6325 fps=95
+state=-1 zone=LEFT move=STOP z=NEAR v=48.9 vw=+16.2 cx=146 cy=113 px=6108 fps=95
+state=-1 zone=LEFT move=STOP z=NEAR v=60.4 vw=+23.7 cx=152 cy=113 px=5865 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=66.5 vw=+9.8 cx=154 cy=113 px=5806 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=75.4 vw=+7.9 cx=161 cy=113 px=5532 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=77.2 vw=+9.7 cx=166 cy=113 px=5582 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=79.8 vw=+12.2 cx=174 cy=113 px=5270 fps=95
+state=0 zone=CENTER move=MOVE RIGHT 4deg z=HOLD v=98.8 vw=+1.1 cx=178 cy=112 px=4976 fps=95
+state=0 zone=CENTER move=MOVE RIGHT 1deg z=HOLD v=88.6 vw=+4.1 cx=181 cy=113 px=5039 fps=95
+state=0 zone=CENTER move=MOVE RIGHT 1deg z=HOLD v=84.4 vw=+6.7 cx=185 cy=113 px=4968 fps=95
+state=1 zone=RIGHT move=MOVE RIGHT 0deg z=FAR v=83.6 vw=-42.9 cx=192 cy=114 px=4588 fps=95
+state=1 zone=RIGHT move=MOVE RIGHT 4deg z=FAR v=74.0 vw=-24.0 cx=194 cy=112 px=4594 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=69.7 vw=-9.0 cx=197 cy=111 px=4471 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=66.0 vw=+3.1 cx=200 cy=111 px=4453 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=66.9 vw=+16.3 cx=204 cy=110 px=4296 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=63.6 vw=+23.2 cx=207 cy=110 px=4199 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=60.0 vw=+27.7 cx=208 cy=110 px=4175 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=54.5 vw=+28.7 cx=210 cy=110 px=4176 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=45.9 vw=+25.3 cx=211 cy=110 px=4150 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=40.2 vw=+23.7 cx=212 cy=110 px=4138 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=32.2 vw=+0.8 cx=212 cy=110 px=4094 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=25.7 vw=+6.8 cx=212 cy=110 px=4116 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=17.4 vw=+2.2 cx=211 cy=110 px=4168 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=10.6 vw=+1.7 cx=210 cy=110 px=4279 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=5.0 vw=-2.0 cx=209 cy=110 px=4284 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=7.5 vw=+1.8 cx=210 cy=110 px=4252 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=6.0 vw=+1.4 cx=210 cy=110 px=4227 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=4.8 vw=+1.2 cx=210 cy=110 px=4268 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=3.8 vw=+0.9 cx=210 cy=110 px=4298 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=3.1 vw=+0.7 cx=210 cy=110 px=4231 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=1.0 vw=-2.9 cx=209 cy=110 px=4323 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=4.1 vw=-5.6 cx=208 cy=110 px=4365 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=3.3 vw=-4.5 cx=208 cy=110 px=4366 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=6.1 vw=-3.6 cx=207 cy=110 px=4390 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=1.5 vw=-2.8 cx=208 cy=110 px=4340 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=1.2 vw=-2.3 cx=208 cy=110 px=4355 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=4.2 vw=-5.1 cx=207 cy=110 px=4386 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=3.4 vw=-4.1 cx=207 cy=110 px=4403 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=2.7 vw=+5.8 cx=207 cy=110 px=4382 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=0.9 vw=+4.7 cx=208 cy=110 px=4367 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=3.5 vw=+3.7 cx=208 cy=109 px=4325 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=2.8 vw=+3.0 cx=208 cy=109 px=4344 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=8.5 vw=+2.4 cx=207 cy=109 px=4336 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=6.8 vw=-1.3 cx=207 cy=109 px=4284 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=12.4 vw=-8.2 cx=204 cy=110 px=4500 fps=95
+state=1 zone=RIGHT move=STOP z=FAR v=20.9 vw=-16.2 cx=201 cy=112 px=4918 fps=95
+state=1 zone=RIGHT move=STOP z=FAR v=28.9 vw=-22.1 cx=200 cy=113 px=5055 fps=95
+state=1 zone=RIGHT move=STOP z=FAR v=41.1 vw=-30.6 cx=196 cy=117 px=5539 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=52.0 vw=+36.6 cx=190 cy=118 px=6228 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=46.4 vw=+32.8 cx=189 cy=119 px=6402 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=44.7 vw=+33.0 cx=187 cy=120 px=6771 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=44.9 vw=+19.8 cx=185 cy=122 px=7043 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=37.9 vw=+19.3 cx=185 cy=123 px=7071 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=30.3 vw=+19.0 cx=185 cy=123 px=7102 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=24.2 vw=+15.2 cx=185 cy=123 px=7088 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=23.8 vw=+12.1 cx=184 cy=124 px=7100 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=17.3 vw=+9.7 cx=185 cy=124 px=7060 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=13.8 vw=+0.8 cx=185 cy=124 px=7020 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=8.4 vw=+0.6 cx=185 cy=123 px=6972 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=5.9 vw=+0.5 cx=186 cy=122 px=6754 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=13.3 vw=+7.3 cx=189 cy=120 px=6355 fps=95
+state=1 zone=RIGHT move=STOP z=FAR v=34.1 vw=-63.1 cx=196 cy=118 px=5193 fps=95
+state=1 zone=RIGHT move=STOP z=FAR v=45.3 vw=-32.3 cx=197 cy=116 px=4981 fps=95
+state=1 zone=RIGHT move=STOP z=FAR v=37.9 vw=-19.1 cx=198 cy=116 px=4823 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=33.0 vw=-15.3 cx=199 cy=116 px=4819 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=29.1 vw=-9.0 cx=200 cy=116 px=4894 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=23.3 vw=-7.2 cx=200 cy=116 px=4913 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=21.3 vw=-2.6 cx=201 cy=116 px=4794 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=21.8 vw=+1.4 cx=202 cy=115 px=4702 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=15.9 vw=+1.1 cx=202 cy=116 px=4812 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=8.4 vw=-2.6 cx=201 cy=117 px=5127 fps=95
+state=1 zone=RIGHT move=STOP z=FAR v=23.8 vw=-29.2 cx=197 cy=124 px=6198 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=31.9 vw=+36.3 cx=193 cy=126 px=7287 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=44.7 vw=+19.9 cx=191 cy=127 px=7508 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=40.9 vw=+12.7 cx=189 cy=127 px=7577 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=37.9 vw=+10.2 cx=187 cy=128 px=7815 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=36.4 vw=+1.0 cx=185 cy=128 px=7759 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=34.3 vw=+9.9 cx=185 cy=129 px=7752 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=28.1 vw=+4.7 cx=184 cy=128 px=7736 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=22.5 vw=+3.8 cx=184 cy=128 px=7770 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=22.9 vw=-3.7 cx=182 cy=127 px=7814 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=18.3 vw=-3.0 cx=182 cy=127 px=7833 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=16.8 vw=-2.4 cx=181 cy=127 px=7805 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=13.5 vw=-1.9 cx=181 cy=127 px=7763 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=10.5 vw=+5.5 cx=181 cy=126 px=7746 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=19.9 vw=+4.4 cx=180 cy=127 px=7747 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=11.8 vw=-2.7 cx=181 cy=126 px=7726 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=6.3 vw=-2.2 cx=182 cy=126 px=7710 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=5.0 vw=-1.8 cx=182 cy=126 px=7699 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=4.0 vw=-1.4 cx=182 cy=126 px=7705 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=3.2 vw=-1.1 cx=182 cy=126 px=7698 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=2.6 vw=-0.9 cx=182 cy=126 px=7715 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=2.1 vw=-0.7 cx=182 cy=126 px=7723 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=1.7 vw=-0.6 cx=182 cy=126 px=7723 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=1.3 vw=-0.5 cx=182 cy=126 px=7717 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=1.1 vw=-0.4 cx=182 cy=126 px=7721 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=0.8 vw=-0.3 cx=182 cy=126 px=7711 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=2.6 vw=+2.9 cx=183 cy=126 px=7694 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=2.1 vw=+2.4 cx=183 cy=126 px=7689 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=1.7 vw=+1.9 cx=183 cy=126 px=7698 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=1.3 vw=-8.0 cx=183 cy=126 px=7695 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=1.1 vw=-6.4 cx=183 cy=126 px=7696 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=0.9 vw=-1.6 cx=183 cy=126 px=7693 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=0.7 vw=-10.3 cx=183 cy=126 px=7691 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=5.9 vw=-8.3 cx=181 cy=126 px=7684 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=15.3 vw=-6.6 cx=178 cy=126 px=7777 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=25.8 vw=-12.1 cx=174 cy=126 px=7836 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=27.5 vw=-6.2 cx=172 cy=126 px=7890 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=39.0 vw=-5.0 cx=167 cy=126 px=7963 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=45.1 vw=-0.5 cx=163 cy=125 px=7960 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=53.6 vw=-7.4 cx=158 cy=125 px=8002 fps=95
+state=0 zone=CENTER move=STOP z=FAR v=61.0 vw=-24.1 cx=156 cy=125 px=8002 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=55.5 vw=-12.6 cx=154 cy=125 px=8034 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=58.6 vw=-14.8 cx=148 cy=124 px=8052 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=60.9 vw=-11.9 cx=144 cy=124 px=8073 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=57.8 vw=-9.5 cx=143 cy=124 px=8085 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=59.3 vw=-7.6 cx=139 cy=123 px=8080 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=54.6 vw=-6.1 cx=137 cy=123 px=8100 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=53.5 vw=-4.9 cx=134 cy=123 px=8082 fps=95
+state=-1 zone=LEFT move=STOP z=FAR v=51.9 vw=-22.1 cx=133 cy=123 px=8065 fps=95
+state=-1 zone=LEFT move=STOP z=FAR v=55.1 vw=-17.7 cx=127 cy=123 px=7825 fps=95
+state=-1 zone=LEFT move=STOP z=FAR v=58.5 vw=-41.7 cx=123 cy=121 px=7692 fps=95
+state=-1 zone=LEFT move=STOP z=FAR v=50.3 vw=-26.2 cx=122 cy=121 px=7800 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=48.9 vw=-12.3 cx=121 cy=121 px=7825 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=45.9 vw=-0.1 cx=119 cy=120 px=7904 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=43.6 vw=-0.1 cx=117 cy=120 px=7859 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=42.4 vw=-0.1 cx=114 cy=119 px=7808 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=42.9 vw=-0.1 cx=113 cy=119 px=7807 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=40.7 vw=-6.5 cx=111 cy=119 px=7782 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=35.9 vw=+1.5 cx=110 cy=119 px=7783 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=32.2 vw=-5.9 cx=109 cy=119 px=7761 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=25.8 vw=+13.5 cx=109 cy=119 px=7738 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=23.2 vw=+8.5 cx=108 cy=118 px=7731 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=22.0 vw=+3.4 cx=107 cy=118 px=7733 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=21.1 vw=+9.8 cx=106 cy=118 px=7746 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=16.9 vw=+7.9 cx=106 cy=118 px=7748 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=13.5 vw=-0.4 cx=106 cy=118 px=7750 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=14.2 vw=-0.3 cx=105 cy=118 px=7735 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=8.0 vw=+3.2 cx=106 cy=118 px=7768 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=3.0 vw=+2.6 cx=107 cy=118 px=7786 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=4.5 vw=+5.4 cx=109 cy=118 px=7830 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=14.2 vw=+7.8 cx=112 cy=119 px=7867 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=20.4 vw=-2.8 cx=113 cy=119 px=7874 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=25.6 vw=-2.3 cx=116 cy=118 px=7867 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=31.0 vw=-1.8 cx=119 cy=118 px=7830 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=34.8 vw=-15.7 cx=123 cy=116 px=7595 fps=95
+state=-1 zone=LEFT move=STOP z=FAR v=36.8 vw=-30.8 cx=124 cy=116 px=7506 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=42.2 vw=-2.0 cx=128 cy=118 px=7547 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=51.3 vw=+1.9 cx=133 cy=118 px=7809 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=44.5 vw=+1.5 cx=134 cy=118 px=7846 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=35.6 vw=+1.2 cx=134 cy=118 px=7849 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=35.2 vw=+5.5 cx=137 cy=117 px=7852 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=36.2 vw=+4.4 cx=139 cy=115 px=7883 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=38.9 vw=+3.5 cx=142 cy=115 px=7903 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=33.9 vw=-15.4 cx=142 cy=114 px=7905 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=39.4 vw=-5.8 cx=146 cy=114 px=7870 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=41.0 vw=-4.6 cx=149 cy=114 px=7870 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=39.6 vw=-8.3 cx=152 cy=114 px=7884 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=40.7 vw=+11.5 cx=153 cy=114 px=7912 fps=95
+state=-1 zone=LEFT move=STOP z=HOLD v=39.0 vw=+9.2 cx=155 cy=114 px=7900 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=37.9 vw=+7.4 cx=157 cy=115 px=7914 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=40.9 vw=+5.9 cx=160 cy=115 px=7915 fps=95
+state=0 zone=CENTER move=STOP z=NEAR v=41.8 vw=+22.9 cx=161 cy=115 px=7910 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=39.7 vw=+15.2 cx=163 cy=115 px=7947 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=43.9 vw=+9.7 cx=168 cy=114 px=7982 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=45.8 vw=+11.4 cx=171 cy=114 px=7992 fps=95
+state=0 zone=CENTER move=STOP z=NEAR v=45.7 vw=+18.2 cx=172 cy=114 px=8002 fps=95
+state=0 zone=CENTER move=STOP z=NEAR v=52.7 vw=+17.8 cx=177 cy=114 px=7958 fps=95
+state=0 zone=CENTER move=STOP z=HOLD v=55.7 vw=+14.2 cx=181 cy=114 px=7925 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=59.3 vw=+11.4 cx=185 cy=113 px=7857 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=59.3 vw=+9.1 cx=190 cy=112 px=7561 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=56.5 vw=-1.8 cx=191 cy=112 px=7582 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=51.7 vw=+1.6 cx=193 cy=111 px=7694 fps=95
+state=1 zone=RIGHT move=STOP z=FAR v=50.9 vw=-31.5 cx=196 cy=112 px=7499 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=51.4 vw=-14.7 cx=199 cy=111 px=7620 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=41.2 vw=-2.6 cx=199 cy=111 px=7649 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=39.8 vw=+2.5 cx=202 cy=111 px=7673 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=35.6 vw=+8.8 cx=203 cy=110 px=7631 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=37.5 vw=+16.1 cx=204 cy=110 px=7590 fps=95
+state=1 zone=RIGHT move=STOP z=NEAR v=33.2 vw=+16.1 cx=205 cy=110 px=7597 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=27.2 vw=+12.9 cx=205 cy=109 px=7595 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=21.7 vw=+10.3 cx=205 cy=109 px=7592 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=16.9 vw=+8.2 cx=205 cy=110 px=7587 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=14.1 vw=+6.6 cx=205 cy=109 px=7575 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=11.3 vw=+1.8 cx=205 cy=109 px=7591 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=12.4 vw=+8.4 cx=206 cy=109 px=7558 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=13.3 vw=+6.7 cx=207 cy=109 px=7546 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=10.6 vw=-12.8 cx=207 cy=109 px=7542 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=11.6 vw=-3.9 cx=208 cy=109 px=7546 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=11.6 vw=-3.1 cx=209 cy=109 px=7520 fps=95
+state=1 zone=RIGHT move=STOP z=HOLD v=9.3 vw=-2.5 cx=209 cy=109 px=7519 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=7.4 vw=-2.0 cx=209 cy=109 px=7498 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=2.5 vw=-8.5 cx=208 cy=109 px=7501 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=8.4 vw=-6.8 cx=205 cy=109 px=7605 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=15.8 vw=-5.4 cx=204 cy=109 px=7651 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=36.5 vw=-6.5 cx=193 cy=109 px=7758 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=46.0 vw=+1.5 cx=188 cy=110 px=7947 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=63.0 vw=-5.4 cx=180 cy=110 px=8017 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=68.9 vw=-4.3 cx=178 cy=109 px=8034 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=77.6 vw=-9.9 cx=171 cy=109 px=8088 fps=96
+state=1 zone=RIGHT move=MOVE LEFT 174deg z=HOLD v=86.4 vw=-11.4 cx=164 cy=108 px=8112 fps=96
+state=1 zone=RIGHT move=MOVE LEFT 174deg z=HOLD v=88.8 vw=-9.1 cx=156 cy=107 px=8073 fps=96
+state=0 zone=CENTER move=MOVE LEFT 175deg z=HOLD v=84.5 vw=-14.1 cx=152 cy=107 px=8091 fps=96
+state=0 zone=CENTER move=MOVE LEFT 173deg z=HOLD v=85.1 vw=-11.2 cx=147 cy=106 px=8018 fps=96
+state=0 zone=CENTER move=MOVE LEFT 175deg z=HOLD v=85.0 vw=-9.0 cx=142 cy=106 px=8019 fps=96
+state=0 zone=CENTER move=MOVE LEFT 175deg z=HOLD v=77.8 vw=-13.8 cx=139 cy=106 px=7916 fps=96
+state=0 zone=CENTER move=MOVE LEFT 176deg z=HOLD v=72.2 vw=-11.0 cx=136 cy=106 px=7918 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=69.8 vw=-8.8 cx=131 cy=105 px=7893 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=69.5 vw=-7.0 cx=127 cy=104 px=7730 fps=96
+state=-1 zone=LEFT move=STOP z=FAR v=74.5 vw=-62.8 cx=125 cy=104 px=7531 fps=96
+state=-1 zone=LEFT move=STOP z=FAR v=69.7 vw=-37.1 cx=122 cy=103 px=7991 fps=96
+state=-1 zone=LEFT move=STOP z=FAR v=66.3 vw=-22.7 cx=119 cy=103 px=8041 fps=96
+state=-1 zone=LEFT move=STOP z=FAR v=60.3 vw=-18.1 cx=117 cy=102 px=7997 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=58.8 vw=-14.5 cx=114 cy=101 px=7902 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=54.4 vw=-11.6 cx=112 cy=100 px=7880 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=50.0 vw=-9.3 cx=110 cy=100 px=7846 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=47.4 vw=-7.4 cx=108 cy=99 px=7800 fps=96
+state=-1 zone=LEFT move=STOP z=FAR v=37.9 vw=-24.1 cx=108 cy=99 px=7775 fps=96
+state=-1 zone=LEFT move=STOP z=FAR v=34.3 vw=-19.3 cx=107 cy=98 px=7752 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=25.1 vw=-15.4 cx=108 cy=98 px=7745 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=15.7 vw=-12.4 cx=110 cy=97 px=7750 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=1.2 vw=+7.5 cx=111 cy=98 px=7714 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=5.6 vw=-0.3 cx=113 cy=98 px=7730 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=16.7 vw=+6.7 cx=116 cy=100 px=7699 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=19.7 vw=+5.4 cx=118 cy=100 px=7756 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=24.6 vw=-13.9 cx=119 cy=100 px=7755 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=29.5 vw=-15.6 cx=123 cy=102 px=7736 fps=96
+state=-1 zone=LEFT move=STOP z=FAR v=27.0 vw=-19.5 cx=124 cy=102 px=7672 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=21.6 vw=-15.6 cx=124 cy=102 px=7605 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=29.9 vw=+6.9 cx=128 cy=102 px=7818 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=38.4 vw=+12.2 cx=132 cy=104 px=8095 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=34.8 vw=+9.7 cx=133 cy=105 px=8110 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=32.2 vw=+7.8 cx=134 cy=106 px=8172 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=25.8 vw=+13.0 cx=134 cy=106 px=8245 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=27.2 vw=+6.9 cx=136 cy=106 px=8312 fps=96
+state=-1 zone=LEFT move=STOP z=NEAR v=29.5 vw=+16.0 cx=138 cy=107 px=8384 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=26.9 vw=+5.9 cx=139 cy=107 px=8458 fps=96
+state=-1 zone=LEFT move=STOP z=NEAR v=21.5 vw=+23.8 cx=139 cy=107 px=8446 fps=96
+state=-1 zone=LEFT move=STOP z=NEAR v=22.3 vw=+19.0 cx=141 cy=108 px=8572 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=27.4 vw=+15.2 cx=144 cy=108 px=8619 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=32.8 vw=+12.2 cx=147 cy=109 px=8692 fps=96
+state=-1 zone=LEFT move=STOP z=NEAR v=35.1 vw=+18.8 cx=148 cy=109 px=8697 fps=96
+state=-1 zone=LEFT move=STOP z=NEAR v=37.4 vw=+18.2 cx=151 cy=109 px=8695 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=37.4 vw=+11.0 cx=153 cy=110 px=8729 fps=96
+state=-1 zone=LEFT move=STOP z=HOLD v=37.0 vw=+11.2 cx=156 cy=110 px=8713 fps=96
+state=0 zone=CENTER move=STOP z=NEAR v=38.2 vw=+17.7 cx=157 cy=110 px=8756 fps=96
+state=0 zone=CENTER move=STOP z=NEAR v=40.2 vw=+17.4 cx=160 cy=110 px=8735 fps=96
+state=0 zone=CENTER move=STOP z=HOLD v=42.7 vw=+13.9 cx=163 cy=111 px=8749 fps=96
+state=0 zone=CENTER move=STOP z=HOLD v=37.4 vw=+11.1 cx=164 cy=111 px=8787 fps=96
+state=0 zone=CENTER move=STOP z=NEAR v=40.2 vw=+19.2 cx=167 cy=111 px=8812 fps=96
+state=0 zone=CENTER move=STOP z=HOLD v=41.2 vw=+6.3 cx=168 cy=111 px=8790 fps=96
+state=0 zone=CENTER move=STOP z=HOLD v=39.4 vw=+7.2 cx=171 cy=110 px=8797 fps=96
+state=0 zone=CENTER move=STOP z=HOLD v=34.9 vw=+9.2 cx=172 cy=110 px=8744 fps=96
+state=0 zone=CENTER move=STOP z=HOLD v=34.7 vw=+7.4 cx=174 cy=110 px=8720 fps=96
+state=0 zone=CENTER move=STOP z=HOLD v=45.2 vw=-11.5 cx=176 cy=110 px=8558 fps=96
+state=0 zone=CENTER move=STOP z=HOLD v=42.4 vw=-9.2 cx=178 cy=110 px=8522 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=40.6 vw=-7.4 cx=180 cy=109 px=8473 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=39.7 vw=-10.7 cx=183 cy=109 px=8310 fps=96
+state=1 zone=RIGHT move=STOP z=NEAR v=31.7 vw=+17.5 cx=183 cy=109 px=8283 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=28.6 vw=+7.7 cx=184 cy=109 px=8250 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=26.4 vw=+2.6 cx=185 cy=109 px=8203 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=27.5 vw=+8.6 cx=187 cy=109 px=8195 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=22.0 vw=-2.2 cx=187 cy=109 px=8187 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=27.1 vw=-1.8 cx=191 cy=107 px=7859 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=24.7 vw=+2.0 cx=192 cy=108 px=7896 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=19.8 vw=-5.3 cx=192 cy=108 px=7918 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=15.8 vw=-4.2 cx=192 cy=108 px=7913 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=15.8 vw=-0.2 cx=193 cy=108 px=7934 fps=96
+state=1 zone=RIGHT move=STOP z=FAR v=19.9 vw=-38.8 cx=195 cy=109 px=7753 fps=96
+state=1 zone=RIGHT move=STOP z=FAR v=19.1 vw=-27.7 cx=196 cy=108 px=7911 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=18.7 vw=-15.2 cx=197 cy=108 px=7998 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=18.4 vw=-8.7 cx=198 cy=108 px=8009 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=18.2 vw=+0.0 cx=199 cy=108 px=8006 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=21.3 vw=+3.3 cx=201 cy=108 px=8008 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=26.5 vw=+12.2 cx=202 cy=108 px=8004 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=21.2 vw=+13.1 cx=202 cy=108 px=7979 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=19.3 vw=+10.5 cx=203 cy=108 px=7958 fps=96
+state=1 zone=RIGHT move=STOP z=NEAR v=15.5 vw=+17.5 cx=203 cy=108 px=7924 fps=96
+state=1 zone=RIGHT move=STOP z=NEAR v=18.8 vw=+17.2 cx=205 cy=108 px=7874 fps=96
+state=1 zone=RIGHT move=STOP z=NEAR v=21.5 vw=+17.0 cx=207 cy=108 px=7771 fps=96
+state=1 zone=RIGHT move=STOP z=NEAR v=23.7 vw=+16.8 cx=209 cy=108 px=7736 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=25.7 vw=+13.5 cx=211 cy=108 px=7571 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=29.5 vw=+10.8 cx=214 cy=108 px=7498 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=33.8 vw=+5.2 cx=217 cy=108 px=7289 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=33.4 vw=+4.2 cx=219 cy=107 px=7175 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=30.1 vw=+6.7 cx=220 cy=107 px=7113 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=33.6 vw=-4.2 cx=221 cy=107 px=7091 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=33.3 vw=-3.3 cx=223 cy=106 px=6838 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=36.0 vw=-2.7 cx=227 cy=105 px=6782 fps=96
+state=1 zone=RIGHT move=STOP z=NEAR v=28.8 vw=+16.9 cx=227 cy=105 px=6747 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=25.9 vw=+7.6 cx=228 cy=105 px=6784 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=30.8 vw=+6.1 cx=231 cy=105 px=6611 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=31.4 vw=+4.9 cx=233 cy=105 px=6528 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=31.9 vw=+0.7 cx=235 cy=104 px=6392 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=34.2 vw=+0.5 cx=236 cy=104 px=6367 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=36.0 vw=+2.6 cx=240 cy=103 px=6139 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=35.7 vw=-4.8 cx=242 cy=103 px=6074 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=37.2 vw=-3.9 cx=243 cy=103 px=5989 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=55.3 vw=-3.1 cx=251 cy=102 px=5306 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=71.8 vw=+4.4 cx=259 cy=102 px=4806 fps=96
+state=1 zone=RIGHT move=STOP z=HOLD v=84.9 vw=+3.5 cx=267 cy=102 px=4759 fps=96
+state=1 zone=RIGHT move=MOVE RIGHT 1deg z=HOLD v=112.0 vw=-0.6 cx=280 cy=102 px=4522 fps=96
+state=1 zone=RIGHT move=MOVE RIGHT 8deg z=FAR v=160.2 vw=-97.0 cx=300 cy=96 px=2501 fps=96
+state=LOST move=-- fps=96
+state=LOST move=-- fps=96
+state=LOST move=-- fps=96
+state=LOST move=-- fps=96
+state=LOST move=-- fps=96
+state=LOST move=-- fps=96
+state=LOST move=-- fps=95
+state=LOST move=-- fps=95
+state=LOST move=-- fps=95
+state=LOST move=-- fps=95
+state=LOST move=-- fps=95
+state=LOST move=-- fps=95
+state=LOST move=-- fps=95
+state=LOST move=-- fps=95
+state=LOST move=-- fps=95
+state=LOST move=-- fps=95
+state=LOST move=-- fps=94
+state=LOST move=-- fps=94
+state=LOST move=-- fps=94
+state=LOST move=-- fps=94
+state=LOST move=-- fps=94
+state=LOST move=-- fps=94
+state=LOST move=-- fps=94
+state=LOST move=-- fps=94
+state=LOST move=-- fps=94
+state=LOST move=-- fps=94
+state=LOST move=-- fps=94
+state=LOST move=-- fps=93
+state=LOST move=-- fps=93
+state=LOST move=-- fps=93
+state=LOST move=-- fps=93
+state=LOST move=-- fps=93
+state=LOST move=-- fps=93
+state=LOST move=-- fps=93
+state=LOST move=-- fps=93
+state=LOST move=-- fps=93
+state=LOST move=-- fps=93
+state=LOST move=-- fps=92
+state=LOST move=-- fps=92
+state=LOST move=-- fps=92
+state=LOST move=-- fps=92
+state=LOST move=-- fps=92
+state=LOST move=-- fps=92
+state=LOST move=-- fps=92
+state=LOST move=-- fps=92
+state=LOST move=-- fps=92
+state=LOST move=-- fps=92
+state=LOST move=-- fps=92
+state=LOST move=-- fps=91
+state=LOST move=-- fps=91
+state=LOST move=-- fps=91
+state=LOST move=-- fps=91
+state=LOST move=-- fps=91
+state=LOST move=-- fps=91
+state=LOST move=-- fps=91
+state=LOST move=-- fps=91
+state=LOST move=-- fps=91
+state=LOST move=-- fps=91
+state=LOST move=-- fps=91
+state=LOST move=-- fps=91
+state=LOST move=-- fps=90
+state=LOST move=-- fps=90
+state=LOST move=-- fps=90
+state=LOST move=-- fps=90
+state=LOST move=-- fps=90
+state=LOST move=-- fps=90
+state=LOST move=-- fps=90
+state=LOST move=-- fps=90
+state=LOST move=-- fps=90
+state=LOST move=-- fps=90
+state=LOST move=-- fps=90
+state=LOST move=-- fps=90
+state=LOST move=
+
+Traceback (most recent call last):
+  File "<stdin>", line 60, in <module>
+OpenMV v4.6.20; MicroPython v1.24.62; OPENMV4P with STM32H743
+Type "help()" for more information.
+>>> state=2 zone=LOST move=INIT z=HOLD v=0.0 vw=+0.0 cx=123 cy=105 px=3979 fps=38
+state=-1 zone=LEFT move=STOP z=HOLD v=19.0 vw=+0.0 cx=123 cy=104 px=4004 fps=43
+state=-1 zone=LEFT move=STOP z=HOLD v=29.6 vw=+0.0 cx=123 cy=103 px=3960 fps=43
+state=-1 zone=LEFT move=STOP z=FAR v=59.0 vw=-19.0 cx=122 cy=101 px=3893 fps=44
+state=-1 zone=LEFT move=MOVE UP 93deg z=HOLD v=215.6 vw=-11.4 cx=122 cy=91 px=3221 fps=45
+state=-1 zone=LEFT move=STOP z=HOLD v=12.9 vw=-6.9 cx=123 cy=98 px=3700 fps=45
+state=-1 zone=LEFT move=STOP z=HOLD v=36.4 vw=-4.1 cx=123 cy=96 px=3579 fps=45
+state=-1 zone=LEFT move=STOP z=HOLD v=62.0 vw=-2.5 cx=124 cy=94 px=3470 fps=45
+state=-1 zone=LEFT move=STOP z=FAR v=55.4 vw=-39.6 cx=124 cy=93 px=3343 fps=46
+state=-1 zone=LEFT move=MOVE UP 93deg z=FAR v=165.9 vw=-23.7 cx=123 cy=86 px=3010 fps=46
+state=-1 zone=LEFT move=MOVE UP 93deg z=HOLD v=104.4 vw=-14.2 cx=123 cy=85 px=2970 fps=49
+state=-1 zone=LEFT move=STOP z=HOLD v=69.2 vw=+4.6 cx=123 cy=84 px=3050 fps=51
+state=-1 zone=LEFT move=STOP z=HOLD v=48.8 vw=+2.7 cx=122 cy=83 px=3134 fps=52
+state=-1 zone=LEFT move=STOP z=NEAR v=67.8 vw=+20.7 cx=123 cy=88 px=3519 fps=55
+state=-1 zone=LEFT move=STOP z=NEAR v=46.3 vw=+31.2 cx=121 cy=89 px=3812 fps=57
+state=-1 zone=LEFT move=STOP z=NEAR v=41.8 vw=+18.7 cx=120 cy=91 px=4078 fps=58
+state=-1 zone=LEFT move=STOP z=NEAR v=77.3 vw=+31.9 cx=117 cy=98 px=4785 fps=59
+state=-1 zone=LEFT move=MOVE DOWN -116deg z=NEAR v=92.2 vw=+38.5 cx=113 cy=104 px=5439 fps=60
+state=-1 zone=LEFT move=MOVE DOWN -111deg z=NEAR v=124.5 vw=+49.8 cx=110 cy=114 px=6658 fps=61
+state=-1 zone=LEFT move=MOVE DOWN -116deg z=NEAR v=122.1 vw=+43.2 cx=106 cy=120 px=7324 fps=63
+state=-1 zone=LEFT move=MOVE DOWN -127deg z=NEAR v=115.1 vw=+38.6 cx=100 cy=124 px=7299 fps=63
+state=-1 zone=LEFT move=MOVE DOWN -131deg z=NEAR v=84.9 vw=+23.2 cx=97 cy=126 px=7297 fps=64
+state=-1 zone=LEFT move=STOP z=NEAR v=60.7 vw=+27.7 cx=96 cy=127 px=7351 fps=65
+state=-1 zone=LEFT move=STOP z=NEAR v=36.4 vw=+16.6 cx=96 cy=127 px=7420 fps=66
+state=-1 zone=LEFT move=STOP z=HOLD v=26.9 vw=+10.0 cx=95 cy=127 px=7393 fps=66
+state=-1 zone=LEFT move=STOP z=HOLD v=16.1 vw=-0.5 cx=95 cy=127 px=7314 fps=67
+state=-1 zone=LEFT move=STOP z=HOLD v=15.5 vw=+6.4 cx=94 cy=127 px=7281 fps=68
+state=-1 zone=LEFT move=STOP z=HOLD v=9.3 vw=+3.8 cx=94 cy=127 px=7246 fps=69
+state=-1 zone=LEFT move=STOP z=HOLD v=5.6 vw=-2.2 cx=94 cy=127 px=7201 fps=69
+state=-1 zone=LEFT move=STOP z=HOLD v=3.9 vw=-8.1 cx=95 cy=127 px=7206 fps=70
+state=-1 zone=LEFT move=STOP z=HOLD v=2.3 vw=-4.9 cx=95 cy=127 px=7192 fps=71
+state=-1 zone=LEFT move=STOP z=HOLD v=1.4 vw=-2.9 cx=95 cy=127 px=7211 fps=71
+state=-1 zone=LEFT move=STOP z=HOLD v=6.2 vw=+4.7 cx=95 cy=126 px=7193 fps=72
+state=-1 zone=LEFT move=STOP z=FAR v=3.7 vw=-16.2 cx=95 cy=126 px=7192 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=2.2 vw=+2.4 cx=95 cy=126 px=7216 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=1.3 vw=+1.4 cx=95 cy=126 px=7161 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=0.8 vw=+0.9 cx=95 cy=126 px=7180 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=0.5 vw=+0.5 cx=95 cy=126 px=7169 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=9.7 vw=+0.3 cx=96 cy=125 px=7246 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=5.8 vw=+0.2 cx=96 cy=125 px=7247 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=3.5 vw=+0.1 cx=96 cy=125 px=7229 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=8.4 vw=+0.1 cx=97 cy=124 px=7172 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=10.7 vw=+12.9 cx=97 cy=123 px=7194 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=6.4 vw=+7.8 cx=97 cy=123 px=7191 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=8.2 vw=-7.5 cx=98 cy=123 px=7166 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=11.3 vw=-4.5 cx=99 cy=123 px=7150 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=6.8 vw=+4.1 cx=99 cy=123 px=7206 fps=79
+state=-1 zone=LEFT move=STOP z=NEAR v=18.7 vw=+21.5 cx=99 cy=124 px=7243 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=12.9 vw=+12.9 cx=100 cy=124 px=7336 fps=80
+state=-1 zone=LEFT move=STOP z=NEAR v=12.6 vw=+21.1 cx=101 cy=124 px=7345 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=7.6 vw=-23.7 cx=101 cy=124 px=7397 fps=81
+state=-1 zone=LEFT move=STOP z=HOLD v=10.4 vw=-14.2 cx=102 cy=124 px=7440 fps=81
+state=-1 zone=LEFT move=STOP z=HOLD v=15.1 vw=+4.8 cx=103 cy=125 px=7491 fps=81
+state=-1 zone=LEFT move=STOP z=HOLD v=18.2 vw=-10.2 cx=104 cy=126 px=7545 fps=81
+state=-1 zone=LEFT move=STOP z=HOLD v=20.3 vw=-6.1 cx=105 cy=127 px=7594 fps=82
+state=-1 zone=LEFT move=STOP z=FAR v=31.4 vw=-17.2 cx=107 cy=129 px=7590 fps=82
+state=-1 zone=LEFT move=STOP z=FAR v=28.4 vw=-23.9 cx=108 cy=130 px=7648 fps=82
+state=-1 zone=LEFT move=STOP z=HOLD v=31.8 vw=-14.3 cx=110 cy=131 px=7702 fps=82
+state=-1 zone=LEFT move=STOP z=FAR v=44.7 vw=-45.0 cx=111 cy=132 px=7706 fps=83
+state=-1 zone=LEFT move=STOP z=FAR v=40.3 vw=-27.0 cx=112 cy=134 px=7723 fps=83
+state=-1 zone=LEFT move=STOP z=FAR v=40.8 vw=-35.0 cx=115 cy=136 px=7692 fps=83
+state=-1 zone=LEFT move=STOP z=NEAR v=57.7 vw=+85.7 cx=119 cy=139 px=7962 fps=83
+state=-1 zone=LEFT move=STOP z=NEAR v=60.3 vw=+51.4 cx=120 cy=140 px=8021 fps=83
+state=-1 zone=LEFT move=STOP z=NEAR v=62.7 vw=+43.3 cx=123 cy=143 px=8113 fps=83
+state=-1 zone=LEFT move=STOP z=NEAR v=71.4 vw=+39.6 cx=127 cy=146 px=8247 fps=83
+state=-1 zone=LEFT move=STOP z=NEAR v=62.0 vw=+23.7 cx=129 cy=148 px=8346 fps=84
+state=-1 zone=LEFT move=STOP z=HOLD v=71.6 vw=+14.2 cx=133 cy=151 px=8454 fps=84
+state=-1 zone=LEFT move=STOP z=NEAR v=72.1 vw=+22.3 cx=136 cy=154 px=8504 fps=84
+state=-1 zone=LEFT move=STOP z=HOLD v=71.1 vw=+6.8 cx=139 cy=157 px=8516 fps=84
+state=-1 zone=LEFT move=STOP z=HOLD v=61.5 vw=+10.8 cx=141 cy=159 px=8593 fps=84
+state=-1 zone=LEFT move=STOP z=HOLD v=59.9 vw=+6.5 cx=144 cy=161 px=8624 fps=84
+state=-1 zone=LEFT move=STOP z=NEAR v=61.6 vw=+40.2 cx=145 cy=162 px=8666 fps=85
+state=-1 zone=LEFT move=STOP z=NEAR v=54.1 vw=+24.1 cx=147 cy=164 px=8687 fps=85
+state=-1 zone=LEFT move=STOP z=HOLD v=49.5 vw=+5.0 cx=150 cy=166 px=8688 fps=85
+state=-1 zone=LEFT move=STOP z=NEAR v=55.3 vw=+39.3 cx=151 cy=167 px=8706 fps=85
+state=-1 zone=LEFT move=STOP z=NEAR v=50.6 vw=+17.5 cx=153 cy=169 px=8744 fps=85
+state=-1 zone=LEFT move=STOP z=NEAR v=64.0 vw=+17.3 cx=156 cy=173 px=8537 fps=85
+state=0 zone=CENTER move=STOP z=HOLD v=47.8 vw=+10.4 cx=157 cy=174 px=8634 fps=85
+state=0 zone=CENTER move=STOP z=HOLD v=34.0 vw=+6.2 cx=157 cy=175 px=8687 fps=85
+state=0 zone=CENTER move=STOP z=HOLD v=15.4 vw=+3.7 cx=157 cy=174 px=8702 fps=85
+state=0 zone=CENTER move=STOP z=HOLD v=6.6 vw=+2.2 cx=155 cy=173 px=8644 fps=85
+state=0 zone=CENTER move=STOP z=HOLD v=32.1 vw=+1.3 cx=153 cy=169 px=8831 fps=85
+state=0 zone=CENTER move=STOP z=HOLD v=48.3 vw=+0.8 cx=150 cy=166 px=8790 fps=85
+state=0 zone=CENTER move=STOP z=FAR v=44.4 vw=-17.7 cx=150 cy=165 px=8781 fps=86
+state=0 zone=CENTER move=STOP z=HOLD v=57.1 vw=-4.5 cx=147 cy=161 px=8767 fps=86
+state=0 zone=CENTER move=STOP z=HOLD v=57.5 vw=-2.7 cx=144 cy=157 px=8732 fps=86
+state=0 zone=CENTER move=STOP z=HOLD v=62.3 vw=-14.1 cx=142 cy=153 px=8704 fps=86
+state=-1 zone=LEFT move=STOP z=NEAR v=68.3 vw=+36.0 cx=141 cy=152 px=8700 fps=86
+state=-1 zone=LEFT move=STOP z=NEAR v=71.5 vw=+21.6 cx=137 cy=149 px=8724 fps=86
+state=-1 zone=LEFT move=STOP z=HOLD v=61.2 vw=+0.0 cx=135 cy=147 px=8733 fps=86
+state=-1 zone=LEFT move=STOP z=HOLD v=60.5 vw=+13.4 cx=133 cy=144 px=8752 fps=86
+state=-1 zone=LEFT move=STOP z=HOLD v=64.1 vw=-5.1 cx=130 cy=141 px=8756 fps=86
+state=-1 zone=LEFT move=STOP z=HOLD v=53.7 vw=+4.0 cx=129 cy=139 px=8806 fps=86
+state=-1 zone=LEFT move=STOP z=HOLD v=46.6 vw=+2.4 cx=127 cy=138 px=8825 fps=86
+state=-1 zone=LEFT move=STOP z=HOLD v=41.6 vw=-11.3 cx=126 cy=136 px=8852 fps=86
+state=-1 zone=LEFT move=STOP z=NEAR v=50.6 vw=+29.6 cx=125 cy=135 px=8869 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=56.1 vw=+17.8 cx=121 cy=133 px=8886 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=47.5 vw=+4.0 cx=120 cy=131 px=8922 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=47.8 vw=+2.4 cx=117 cy=128 px=8954 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=68.4 vw=+19.6 cx=115 cy=127 px=9006 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=67.7 vw=-96.2 cx=112 cy=124 px=8748 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=68.3 vw=-31.5 cx=109 cy=121 px=8868 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=63.8 vw=-6.0 cx=107 cy=118 px=8958 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=53.0 vw=-3.6 cx=107 cy=117 px=8970 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=54.1 vw=+15.8 cx=104 cy=113 px=9121 fps=88
+state=-1 zone=LEFT move=STOP z=NEAR v=55.7 vw=+22.4 cx=102 cy=110 px=9132 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=53.1 vw=+13.4 cx=101 cy=107 px=9053 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=48.0 vw=+8.1 cx=101 cy=106 px=9023 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=42.6 vw=+4.8 cx=100 cy=104 px=8999 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=32.1 vw=+9.8 cx=100 cy=103 px=9005 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=21.1 vw=+1.2 cx=99 cy=103 px=8980 fps=88
+state=-1 zone=LEFT move=STOP z=NEAR v=15.9 vw=+18.1 cx=100 cy=103 px=9004 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=18.1 vw=+4.5 cx=101 cy=106 px=9132 fps=88
+state=-1 zone=LEFT move=STOP z=FAR v=52.7 vw=-23.5 cx=105 cy=111 px=9300 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -55deg z=FAR v=95.4 vw=-41.2 cx=110 cy=119 px=9254 fps=88
+state=-1 zone=LEFT move=MOVE DOWN -51deg z=NEAR v=127.9 vw=+68.6 cx=117 cy=127 px=9569 fps=88
+state=-1 zone=LEFT move=MOVE DOWN -50deg z=NEAR v=170.1 vw=+41.2 cx=130 cy=142 px=9415 fps=88
+state=-1 zone=LEFT move=MOVE DOWN -49deg z=NEAR v=182.3 vw=+38.0 cx=138 cy=151 px=9378 fps=88
+state=-1 zone=LEFT move=MOVE DOWN -46deg z=HOLD v=162.7 vw=+15.9 cx=144 cy=156 px=9347 fps=88
+state=-1 zone=LEFT move=MOVE DOWN -54deg z=NEAR v=103.6 vw=+16.2 cx=143 cy=158 px=9361 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=46.9 vw=+9.7 cx=140 cy=157 px=9375 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=31.5 vw=+5.8 cx=134 cy=152 px=9361 fps=88
+state=-1 zone=LEFT move=MOVE UP 132deg z=HOLD v=87.0 vw=+3.5 cx=128 cy=143 px=9370 fps=88
+state=-1 zone=LEFT move=MOVE UP 128deg z=HOLD v=153.8 vw=-11.5 cx=119 cy=131 px=9612 fps=88
+state=-1 zone=LEFT move=MOVE UP 128deg z=FAR v=222.5 vw=-81.5 cx=107 cy=116 px=9524 fps=88
+state=-1 zone=LEFT move=MOVE UP 126deg z=FAR v=187.7 vw=-21.8 cx=103 cy=109 px=9581 fps=88
+state=-1 zone=LEFT move=MOVE UP 116deg z=HOLD v=162.6 vw=-6.3 cx=102 cy=101 px=9632 fps=88
+state=-1 zone=LEFT move=MOVE UP 113deg z=HOLD v=110.1 vw=-3.8 cx=102 cy=99 px=9663 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=58.4 vw=-11.7 cx=104 cy=100 px=9776 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=20.5 vw=-7.0 cx=105 cy=102 px=9851 fps=88
+state=-1 zone=LEFT move=STOP z=FAR v=30.8 vw=-17.8 cx=107 cy=108 px=9927 fps=88
+state=-1 zone=LEFT move=MOVE DOWN -58deg z=FAR v=86.8 vw=-48.8 cx=109 cy=111 px=9916 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -59deg z=NEAR v=156.1 vw=+61.1 cx=117 cy=125 px=10131 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -56deg z=NEAR v=217.0 vw=+45.7 cx=133 cy=147 px=9758 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -54deg z=HOLD v=268.0 vw=+13.6 cx=145 cy=163 px=9534 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -51deg z=HOLD v=258.0 vw=+8.2 cx=159 cy=178 px=9243 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -49deg z=HOLD v=177.8 vw=+4.9 cx=162 cy=180 px=9305 fps=89
+state=0 zone=CENTER move=MOVE DOWN -51deg z=HOLD v=111.8 vw=+2.9 cx=162 cy=181 px=9352 fps=89
+state=0 zone=CENTER move=STOP z=HOLD v=59.7 vw=+1.8 cx=160 cy=181 px=9391 fps=89
+state=0 zone=CENTER move=STOP z=HOLD v=25.0 vw=+14.6 cx=157 cy=180 px=9421 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=35.9 vw=+8.8 cx=152 cy=178 px=9327 fps=89
+state=0 zone=CENTER move=STOP z=HOLD v=37.1 vw=-8.1 cx=150 cy=176 px=9195 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=73.9 vw=+9.0 cx=146 cy=169 px=9435 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=84.3 vw=+5.4 cx=145 cy=167 px=9481 fps=89
+state=0 zone=CENTER move=MOVE UP 119deg z=HOLD v=120.2 vw=+9.5 cx=140 cy=157 px=9758 fps=89
+state=-1 zone=LEFT move=MOVE UP 119deg z=HOLD v=175.5 vw=+10.4 cx=129 cy=138 px=10033 fps=89
+state=-1 zone=LEFT move=MOVE UP 118deg z=HOLD v=222.5 vw=-0.3 cx=121 cy=122 px=10185 fps=89
+state=-1 zone=LEFT move=MOVE UP 117deg z=HOLD v=237.8 vw=+6.5 cx=114 cy=108 px=10387 fps=89
+state=-1 zone=LEFT move=MOVE UP 117deg z=FAR v=212.5 vw=-104.6 cx=109 cy=99 px=10294 fps=89
+state=-1 zone=LEFT move=MOVE UP 115deg z=FAR v=155.2 vw=-62.8 cx=108 cy=95 px=10382 fps=89
+state=-1 zone=LEFT move=MOVE UP 112deg z=FAR v=105.5 vw=-37.7 cx=108 cy=93 px=10305 fps=89
+state=-1 zone=LEFT move=STOP z=FAR v=60.4 vw=-31.9 cx=110 cy=93 px=10136 fps=89
+state=-1 zone=LEFT move=STOP z=FAR v=36.2 vw=-19.1 cx=110 cy=93 px=10136 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=15.3 vw=-11.5 cx=110 cy=94 px=10147 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=9.2 vw=-6.9 cx=110 cy=94 px=10137 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=8.1 vw=+8.2 cx=109 cy=95 px=10193 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=13.9 vw=+4.9 cx=108 cy=96 px=10165 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=9.5 vw=+2.9 cx=109 cy=97 px=10061 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=5.7 vw=+1.8 cx=109 cy=97 px=10050 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=9.6 vw=-5.2 cx=109 cy=98 px=9974 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=5.7 vw=-9.9 cx=109 cy=98 px=9981 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=22.5 vw=-5.9 cx=109 cy=99 px=10005 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=26.9 vw=-3.6 cx=110 cy=101 px=10013 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=42.8 vw=+72.3 cx=113 cy=106 px=10327 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=62.2 vw=+63.7 cx=115 cy=111 px=10423 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=77.9 vw=+20.0 cx=116 cy=113 px=10488 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -66deg z=NEAR v=93.6 vw=+24.3 cx=119 cy=120 px=10583 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -63deg z=HOLD v=110.7 vw=+7.8 cx=123 cy=127 px=10663 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -64deg z=HOLD v=102.8 vw=+11.5 cx=125 cy=132 px=10679 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -71deg z=NEAR v=97.6 vw=+16.1 cx=126 cy=140 px=10743 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -79deg z=NEAR v=96.7 vw=+16.2 cx=126 cy=146 px=10857 fps=89
+state=-1 zone=LEFT move=MOVE DOWN -82deg z=NEAR v=83.5 vw=+16.2 cx=126 cy=150 px=11037 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=58.8 vw=+18.8 cx=125 cy=152 px=11248 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=35.3 vw=+11.3 cx=125 cy=152 px=11263 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=22.3 vw=+6.8 cx=126 cy=152 px=11297 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=5.3 vw=-0.6 cx=126 cy=150 px=11216 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=3.2 vw=-0.4 cx=126 cy=150 px=11198 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=16.7 vw=+17.9 cx=125 cy=150 px=11270 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=22.7 vw=+10.8 cx=123 cy=150 px=11371 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=50.8 vw=+6.5 cx=118 cy=152 px=11502 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=65.2 vw=+16.8 cx=113 cy=154 px=11653 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=66.5 vw=+10.1 cx=109 cy=155 px=11779 fps=89
+state=-1 zone=LEFT move=MOVE LEFT -164deg z=FAR v=95.8 vw=-116.0 cx=101 cy=157 px=11675 fps=89
+state=-1 zone=LEFT move=MOVE LEFT -163deg z=FAR v=101.8 vw=-27.5 cx=95 cy=159 px=12027 fps=89
+state=-1 zone=LEFT move=MOVE LEFT -166deg z=NEAR v=102.1 vw=+24.2 cx=89 cy=160 px=12156 fps=89
+state=-1 zone=LEFT move=MOVE LEFT -167deg z=NEAR v=96.4 vw=+69.7 cx=84 cy=161 px=12306 fps=89
+state=-1 zone=LEFT move=MOVE LEFT -165deg z=NEAR v=91.7 vw=+46.5 cx=77 cy=163 px=12468 fps=89
+state=-1 zone=LEFT move=MOVE LEFT -159deg z=NEAR v=78.5 vw=+34.7 cx=74 cy=165 px=12714 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=66.4 vw=+39.6 cx=70 cy=166 px=13221 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=48.7 vw=+23.8 cx=70 cy=167 px=13097 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=24.6 vw=+27.0 cx=71 cy=167 px=13364 fps=89
+state=-1 zone=LEFT move=STOP z=NEAR v=17.4 vw=+16.2 cx=75 cy=166 px=13264 fps=89
+state=-1 zone=LEFT move=STOP z=HOLD v=58.8 vw=-8.9 cx=85 cy=162 px=13716 fps=89
+state=-1 zone=LEFT move=MOVE RIGHT 17deg z=FAR v=92.8 vw=-78.1 cx=88 cy=161 px=13955 fps=89
+state=-1 zone=LEFT move=MOVE RIGHT 17deg z=NEAR v=143.4 vw=+17.7 cx=101 cy=157 px=14278 fps=89
+state=-1 zone=LEFT move=MOVE RIGHT 15deg z=HOLD v=141.9 vw=+10.6 cx=109 cy=155 px=14284 fps=89
+state=-1 zone=LEFT move=MOVE RIGHT 17deg z=HOLD v=172.3 vw=+6.4 cx=121 cy=151 px=14007 fps=89
+state=-1 zone=LEFT move=MOVE RIGHT 16deg z=FAR v=192.3 vw=-24.8 cx=139 cy=146 px=13535 fps=89
+state=-1 zone=LEFT move=MOVE RIGHT 12deg z=FAR v=210.7 vw=-42.0 cx=153 cy=144 px=13353 fps=89
+state=-1 zone=LEFT move=MOVE RIGHT 8deg z=FAR v=209.6 vw=-53.1 cx=171 cy=143 px=12928 fps=89
+state=0 zone=CENTER move=MOVE RIGHT 6deg z=FAR v=181.4 vw=-66.9 cx=179 cy=143 px=12768 fps=89
+state=0 zone=CENTER move=MOVE RIGHT 0deg z=FAR v=185.4 vw=-89.3 cx=190 cy=145 px=12777 fps=89
+state=0 zone=CENTER move=MOVE RIGHT -4deg z=FAR v=172.9 vw=-80.7 cx=199 cy=147 px=12830 fps=89
+state=1 zone=RIGHT move=MOVE RIGHT -7deg z=FAR v=137.9 vw=-72.2 cx=206 cy=149 px=12866 fps=89
+state=1 zone=RIGHT move=STOP z=FAR v=66.4 vw=-36.6 cx=203 cy=151 px=13532 fps=89
+state=1 zone=RIGHT move=STOP z=FAR v=24.0 vw=-34.8 cx=199 cy=152 px=13863 fps=89
+state=1 zone=RIGHT move=STOP z=NEAR v=65.8 vw=+21.2 cx=196 cy=153 px=14023 fps=89
+state=1 zone=RIGHT move=MOVE LEFT -167deg z=NEAR v=120.7 vw=+25.6 cx=183 cy=154 px=14691 fps=89
+state=1 zone=RIGHT move=MOVE LEFT -173deg z=NEAR v=191.3 vw=+57.5 cx=166 cy=155 px=15702 fps=89
+state=0 zone=CENTER move=MOVE LEFT -177deg z=NEAR v=237.9 vw=+53.5 cx=140 cy=154 px=16523 fps=89
+state=0 zone=CENTER move=MOVE LEFT 179deg z=NEAR v=233.9 vw=+39.1 cx=127 cy=153 px=16825 fps=89
+state=0 zone=CENTER move=MOVE LEFT 176deg z=NEAR v=251.1 vw=+51.1 cx=111 cy=151 px=17009 fps=89
+state=-1 zone=LEFT move=MOVE LEFT 173deg z=NEAR v=234.8 vw=+26.0 cx=93 cy=147 px=16752 fps=89
+state=-1 zone=LEFT move=MOVE LEFT 166deg z=HOLD v=221.7 vw=+15.6 cx=82 cy=142 px=15853 fps=88
+state=-1 zone=LEFT move=MOVE LEFT 167deg z=HOLD v=185.6 vw=+9.4 cx=71 cy=140 px=15535 fps=88
+state=-1 zone=LEFT move=MOVE LEFT 163deg z=HOLD v=133.6 vw=-7.5 cx=68 cy=138 px=15045 fps=88
+state=-1 zone=LEFT move=MOVE LEFT 159deg z=HOLD v=82.4 vw=-4.5 cx=68 cy=137 px=14764 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=14.2 vw=-15.8 cx=73 cy=139 px=15043 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=32.3 vw=-9.5 cx=75 cy=140 px=15204 fps=88
+state=-1 zone=LEFT move=MOVE RIGHT -18deg z=HOLD v=90.2 vw=-5.7 cx=86 cy=143 px=15478 fps=88
+state=-1 zone=LEFT move=MOVE RIGHT -14deg z=FAR v=139.7 vw=-31.3 cx=104 cy=147 px=15557 fps=88
+state=-1 zone=LEFT move=MOVE RIGHT -12deg z=HOLD v=189.3 vw=+8.8 cx=119 cy=150 px=15697 fps=88
+state=-1 zone=LEFT move=MOVE RIGHT -12deg z=HOLD v=204.0 vw=-8.3 cx=132 cy=153 px=15631 fps=88
+state=-1 zone=LEFT move=MOVE RIGHT -13deg z=FAR v=180.3 vw=-19.0 cx=140 cy=155 px=15336 fps=88
+state=-1 zone=LEFT move=MOVE RIGHT -10deg z=FAR v=178.3 vw=-25.4 cx=150 cy=156 px=14854 fps=88
+state=-1 zone=LEFT move=MOVE RIGHT -10deg z=FAR v=160.9 vw=-34.5 cx=161 cy=158 px=14457 fps=88
+state=-1 zone=LEFT move=MOVE RIGHT -7deg z=FAR v=130.0 vw=-20.7 cx=166 cy=158 px=14076 fps=88
+state=0 zone=CENTER move=MOVE RIGHT -8deg z=HOLD v=97.1 vw=-12.4 cx=170 cy=159 px=13823 fps=88
+state=0 zone=CENTER move=STOP z=FAR v=64.8 vw=-20.8 cx=171 cy=159 px=13808 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=38.9 vw=-12.5 cx=171 cy=159 px=13734 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=5.9 vw=+4.6 cx=168 cy=159 px=13958 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=20.9 vw=+2.8 cx=163 cy=159 px=14143 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=47.0 vw=+15.5 cx=158 cy=159 px=14326 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=63.0 vw=+9.3 cx=153 cy=158 px=14493 fps=88
+state=0 zone=CENTER move=STOP z=NEAR v=74.1 vw=+41.9 cx=151 cy=158 px=14585 fps=88
+state=0 zone=CENTER move=STOP z=NEAR v=57.3 vw=+25.2 cx=149 cy=157 px=14697 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=34.4 vw=+15.1 cx=149 cy=157 px=14664 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=2.6 vw=-0.1 cx=153 cy=158 px=14637 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=16.2 vw=-0.1 cx=154 cy=158 px=14581 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=40.6 vw=-0.0 cx=159 cy=159 px=14551 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=46.0 vw=-0.0 cx=162 cy=160 px=14612 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=36.3 vw=-0.0 cx=163 cy=161 px=14568 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=35.2 vw=-0.0 cx=165 cy=161 px=14487 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=29.1 vw=-0.0 cx=166 cy=162 px=14535 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=26.9 vw=-0.0 cx=167 cy=163 px=14519 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=25.7 vw=-0.0 cx=168 cy=164 px=14504 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=21.5 vw=-0.0 cx=169 cy=164 px=14435 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=19.4 vw=-0.0 cx=170 cy=164 px=14385 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=11.6 vw=-0.0 cx=170 cy=164 px=14374 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=19.7 vw=-0.0 cx=172 cy=164 px=14327 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=21.9 vw=-0.0 cx=174 cy=165 px=14342 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=13.1 vw=-0.0 cx=174 cy=165 px=14282 fps=88
+state=0 zone=CENTER move=STOP z=FAR v=7.9 vw=-36.4 cx=174 cy=165 px=14312 fps=88
+state=1 zone=RIGHT move=STOP z=HOLD v=4.7 vw=-15.5 cx=174 cy=165 px=14244 fps=88
+state=1 zone=RIGHT move=STOP z=HOLD v=4.2 vw=-2.4 cx=173 cy=165 px=14370 fps=88
+state=1 zone=RIGHT move=STOP z=HOLD v=16.1 vw=-1.4 cx=171 cy=165 px=14389 fps=88
+state=1 zone=RIGHT move=STOP z=HOLD v=24.6 vw=+6.2 cx=169 cy=164 px=14469 fps=88
+state=1 zone=RIGHT move=STOP z=HOLD v=21.5 vw=-3.2 cx=168 cy=164 px=14580 fps=88
+state=1 zone=RIGHT move=STOP z=HOLD v=26.3 vw=-1.9 cx=166 cy=164 px=14529 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=30.1 vw=+6.0 cx=164 cy=164 px=14592 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=19.6 vw=+10.5 cx=164 cy=163 px=14650 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=29.4 vw=+6.3 cx=163 cy=163 px=14687 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=31.0 vw=+3.8 cx=160 cy=162 px=14811 fps=88
+state=0 zone=CENTER move=STOP z=NEAR v=32.2 vw=+16.1 cx=158 cy=162 px=14786 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=32.8 vw=+9.6 cx=156 cy=162 px=14962 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=39.5 vw=+5.8 cx=153 cy=161 px=14912 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=40.9 vw=+3.5 cx=152 cy=161 px=15052 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=37.4 vw=+2.1 cx=150 cy=161 px=15111 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=31.9 vw=+1.2 cx=148 cy=161 px=15171 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=25.8 vw=+14.1 cx=147 cy=161 px=15239 fps=88
+state=0 zone=CENTER move=STOP z=FAR v=15.5 vw=-27.9 cx=147 cy=161 px=15208 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=23.4 vw=-3.6 cx=145 cy=160 px=15296 fps=88
+state=0 zone=CENTER move=STOP z=HOLD v=20.6 vw=-2.2 cx=144 cy=160 px=15251 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=27.3 vw=-1.3 cx=142 cy=159 px=15251 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=30.8 vw=-0.8 cx=139 cy=158 px=15261 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=36.1 vw=-0.5 cx=138 cy=158 px=15264 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=45.9 vw=-0.3 cx=134 cy=157 px=15285 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=34.1 vw=-0.2 cx=133 cy=157 px=15280 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=42.1 vw=-0.1 cx=130 cy=156 px=15255 fps=88
+state=-1 zone=LEFT move=STOP z=NEAR v=25.3 vw=+36.3 cx=130 cy=156 px=15332 fps=88
+state=-1 zone=LEFT move=STOP z=NEAR v=35.2 vw=+21.8 cx=127 cy=155 px=15362 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=34.9 vw=+13.1 cx=124 cy=155 px=15367 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=33.5 vw=+7.8 cx=122 cy=155 px=15361 fps=88
+state=-1 zone=LEFT move=STOP z=NEAR v=35.0 vw=+18.5 cx=120 cy=154 px=15393 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=30.5 vw=-23.7 cx=120 cy=153 px=15271 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=32.2 vw=-14.2 cx=118 cy=152 px=15128 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=31.3 vw=-8.5 cx=116 cy=152 px=15261 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=31.3 vw=-0.5 cx=114 cy=150 px=14978 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=35.1 vw=+17.9 cx=113 cy=151 px=15383 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=26.9 vw=+10.7 cx=112 cy=150 px=15049 fps=88
+state=-1 zone=LEFT move=STOP z=HOLD v=36.6 vw=+6.4 cx=109 cy=151 px=14885 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=42.1 vw=-57.1 cx=106 cy=151 px=14701 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=32.3 vw=-27.5 cx=105 cy=150 px=14890 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=30.1 vw=+9.3 cx=104 cy=148 px=14944 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=42.5 vw=+19.1 cx=101 cy=146 px=14879 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=40.9 vw=+25.3 cx=99 cy=145 px=14674 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=37.1 vw=+22.1 cx=97 cy=145 px=14756 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=32.5 vw=-4.2 cx=97 cy=144 px=14555 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=37.1 vw=+10.0 cx=95 cy=142 px=14107 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=33.3 vw=-3.3 cx=92 cy=142 px=14275 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=46.5 vw=+36.1 cx=91 cy=141 px=14312 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=36.7 vw=+21.7 cx=90 cy=140 px=14099 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=33.4 vw=+13.0 cx=88 cy=140 px=14110 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=32.8 vw=+7.8 cx=86 cy=140 px=14319 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=28.5 vw=+4.7 cx=85 cy=139 px=14020 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=29.8 vw=+21.0 cx=85 cy=138 px=13938 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=26.9 vw=+8.3 cx=82 cy=138 px=13816 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=22.2 vw=+5.0 cx=81 cy=138 px=13924 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=28.7 vw=+16.8 cx=79 cy=137 px=13711 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=17.2 vw=+10.1 cx=79 cy=137 px=13734 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=28.4 vw=+6.0 cx=76 cy=137 px=13648 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=19.4 vw=+3.6 cx=76 cy=136 px=13581 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=24.1 vw=+2.2 cx=74 cy=136 px=13604 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=36.9 vw=+15.1 cx=72 cy=133 px=13216 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=36.6 vw=+9.1 cx=71 cy=131 px=12613 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=32.8 vw=-8.6 cx=69 cy=131 px=13027 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=38.5 vw=+8.4 cx=67 cy=129 px=12665 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=50.0 vw=+5.0 cx=66 cy=128 px=12612 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=49.2 vw=-5.8 cx=62 cy=126 px=12274 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=53.1 vw=-17.0 cx=60 cy=123 px=11722 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=58.8 vw=-48.3 cx=59 cy=122 px=11515 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=51.9 vw=-40.7 cx=57 cy=120 px=11006 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=50.3 vw=-38.0 cx=55 cy=118 px=10572 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=44.2 vw=-36.4 cx=52 cy=119 px=10950 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=43.7 vw=-34.7 cx=50 cy=117 px=10477 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=30.3 vw=-34.6 cx=49 cy=118 px=10493 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=26.8 vw=-34.6 cx=48 cy=117 px=10278 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=25.3 vw=-20.7 cx=47 cy=116 px=9907 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=28.4 vw=-47.2 cx=47 cy=115 px=9689 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=16.6 vw=-28.3 cx=46 cy=116 px=9848 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=10.0 vw=-17.0 cx=46 cy=116 px=9696 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=6.0 vw=-10.2 cx=46 cy=116 px=9670 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=9.0 vw=-6.1 cx=46 cy=115 px=9713 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=10.1 vw=+10.1 cx=47 cy=117 px=10028 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=24.8 vw=+19.4 cx=49 cy=119 px=10493 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=34.0 vw=+25.2 cx=51 cy=121 px=10968 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=20.4 vw=+15.1 cx=51 cy=121 px=11018 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=44.0 vw=+36.0 cx=56 cy=126 px=12040 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=41.1 vw=+35.2 cx=58 cy=127 px=12384 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=54.7 vw=+48.2 cx=62 cy=129 px=12404 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=70.7 vw=+28.9 cx=63 cy=131 px=13067 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=69.9 vw=+43.2 cx=67 cy=133 px=13074 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=71.8 vw=+19.1 cx=71 cy=135 px=13339 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=70.5 vw=+6.8 cx=76 cy=138 px=13693 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=59.2 vw=-34.0 cx=77 cy=138 px=13691 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=62.2 vw=-20.4 cx=81 cy=140 px=13816 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=61.6 vw=-12.3 cx=84 cy=142 px=14033 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=70.6 vw=-7.4 cx=88 cy=145 px=14437 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=74.0 vw=-23.5 cx=90 cy=144 px=14242 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=73.0 vw=-14.1 cx=94 cy=148 px=14960 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=74.9 vw=-22.4 cx=100 cy=151 px=15291 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=76.3 vw=-41.5 cx=104 cy=153 px=15150 fps=87
+state=-1 zone=LEFT move=STOP z=FAR v=69.4 vw=-59.7 cx=105 cy=154 px=15026 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=82.8 vw=+15.0 cx=112 cy=154 px=15493 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=78.6 vw=+9.0 cx=116 cy=156 px=15744 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=79.4 vw=+5.4 cx=121 cy=157 px=15805 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=67.7 vw=+3.2 cx=124 cy=157 px=15777 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=68.9 vw=-11.0 cx=128 cy=159 px=15905 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=69.3 vw=-6.6 cx=132 cy=160 px=15931 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=67.1 vw=-3.9 cx=136 cy=160 px=15931 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=63.1 vw=-2.4 cx=137 cy=161 px=15975 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=68.2 vw=-1.4 cx=142 cy=161 px=15874 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=61.8 vw=-0.9 cx=146 cy=163 px=15804 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=57.5 vw=-14.5 cx=149 cy=163 px=15593 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=47.4 vw=-8.7 cx=151 cy=163 px=15482 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=47.4 vw=+13.8 cx=152 cy=163 px=15383 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=41.1 vw=-4.4 cx=154 cy=163 px=15108 fps=87
+state=0 zone=CENTER move=STOP z=HOLD v=51.8 vw=-9.4 cx=158 cy=163 px=14876 fps=87
+state=0 zone=CENTER move=STOP z=HOLD v=45.8 vw=-5.7 cx=161 cy=165 px=14888 fps=87
+state=0 zone=CENTER move=STOP z=HOLD v=63.5 vw=-3.4 cx=163 cy=165 px=14939 fps=87
+state=0 zone=CENTER move=STOP z=HOLD v=62.5 vw=-2.0 cx=167 cy=166 px=14869 fps=87
+state=0 zone=CENTER move=STOP z=HOLD v=73.3 vw=+12.8 cx=172 cy=167 px=15030 fps=87
+state=0 zone=CENTER move=STOP z=HOLD v=69.5 vw=+7.7 cx=176 cy=167 px=15059 fps=87
+state=0 zone=CENTER move=STOP z=HOLD v=61.3 vw=+4.6 cx=179 cy=167 px=14959 fps=87
+state=0 zone=CENTER move=STOP z=HOLD v=56.7 vw=+2.8 cx=180 cy=167 px=14998 fps=87
+state=1 zone=RIGHT move=STOP z=HOLD v=42.9 vw=-2.6 cx=182 cy=168 px=14955 fps=87
+state=1 zone=RIGHT move=STOP z=HOLD v=25.8 vw=+12.5 cx=182 cy=168 px=15027 fps=87
+state=1 zone=RIGHT move=STOP z=HOLD v=9.0 vw=+0.9 cx=181 cy=168 px=14944 fps=87
+state=1 zone=RIGHT move=STOP z=NEAR v=12.2 vw=+35.3 cx=180 cy=168 px=15055 fps=87
+state=1 zone=RIGHT move=STOP z=NEAR v=26.3 vw=+21.2 cx=177 cy=167 px=15028 fps=87
+state=1 zone=RIGHT move=STOP z=NEAR v=44.2 vw=+27.0 cx=173 cy=168 px=15268 fps=87
+state=1 zone=RIGHT move=STOP z=NEAR v=60.2 vw=+21.0 cx=166 cy=166 px=15493 fps=87
+state=1 zone=RIGHT move=STOP z=NEAR v=78.0 vw=+19.5 cx=160 cy=165 px=15646 fps=87
+state=0 zone=CENTER move=STOP z=HOLD v=84.6 vw=+11.7 cx=158 cy=164 px=15696 fps=87
+state=0 zone=CENTER move=MOVE LEFT 166deg z=HOLD v=89.8 vw=+7.0 cx=152 cy=163 px=15736 fps=87
+state=0 zone=CENTER move=MOVE LEFT 164deg z=HOLD v=97.4 vw=+11.1 cx=146 cy=161 px=15760 fps=87
+state=0 zone=CENTER move=MOVE LEFT 159deg z=HOLD v=81.7 vw=+13.3 cx=143 cy=159 px=15706 fps=87
+state=0 zone=CENTER move=MOVE LEFT 158deg z=NEAR v=84.4 vw=+17.3 cx=136 cy=156 px=15838 fps=87
+state=-1 zone=LEFT move=MOVE LEFT 159deg z=NEAR v=92.8 vw=+23.7 cx=130 cy=154 px=16143 fps=87
+state=-1 zone=LEFT move=MOVE LEFT 155deg z=NEAR v=109.9 vw=+21.0 cx=123 cy=150 px=16159 fps=87
+state=-1 zone=LEFT move=MOVE LEFT 155deg z=NEAR v=118.5 vw=+26.4 cx=116 cy=147 px=16412 fps=87
+state=-1 zone=LEFT move=MOVE LEFT 156deg z=NEAR v=107.3 vw=+25.4 cx=109 cy=144 px=16456 fps=87
+state=-1 zone=LEFT move=MOVE LEFT 157deg z=FAR v=114.5 vw=-26.6 cx=99 cy=140 px=15964 fps=87
+state=-1 zone=LEFT move=MOVE LEFT 145deg z=NEAR v=109.6 vw=+25.4 cx=95 cy=135 px=15691 fps=87
+state=-1 zone=LEFT move=MOVE LEFT 152deg z=NEAR v=108.4 vw=+42.8 cx=89 cy=133 px=16116 fps=87
+state=-1 zone=LEFT move=MOVE LEFT 150deg z=NEAR v=89.8 vw=+32.6 cx=86 cy=131 px=15946 fps=87
+state=-1 zone=LEFT move=MOVE LEFT 139deg z=NEAR v=70.6 vw=+19.6 cx=85 cy=128 px=15394 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=52.7 vw=+16.4 cx=83 cy=127 px=15987 fps=87
+state=-1 zone=LEFT move=STOP z=HOLD v=45.1 vw=-8.3 cx=83 cy=126 px=16099 fps=87
+state=-1 zone=LEFT move=STOP z=NEAR v=60.7 vw=+32.5 cx=84 cy=120 px=16787 fps=87
+state=-1 zone=LEFT move=MOVE UP 92deg z=NEAR v=112.0 vw=+54.0 cx=84 cy=109 px=18075 fps=87
+state=-1 zone=LEFT move=MOVE UP 91deg z=NEAR v=178.6 vw=+71.7 cx=84 cy=92 px=20132 fps=87
+state=-1 zone=LEFT move=MOVE UP 101deg z=NEAR v=250.2 vw=+56.8 cx=77 cy=72 px=20637 fps=87
+state=-1 zone=LEFT move=MOVE UP 115deg z=FAR v=265.0 vw=-83.0 cx=60 cy=53 px=13325 fps=87
+state=-1 zone=LEFT move=MOVE UP 118deg z=FAR v=241.0 vw=-198.9 cx=53 cy=43 px=8903 fps=87
+state=-1 zone=LEFT move=MOVE UP 119deg z=FAR v=302.7 vw=-336.3 cx=41 cy=23 px=3601 fps=87
+state=LOST move=-- fps=87
+state=LOST move=-- fps=87
+state=LOST move=-- fps=87
+state=LOST move=-- fps=87
+state=LOST move=-- fps=86
+state=LOST move=-- fps=86
+state=LOST move=-- fps=86
+state=LOST move=-- fps=86
+state=LOST move=-- fps=86
+state=LOST move=-- fps=85
+state=LOST move=-- fps=85
+state=LOST move=-- fps=85
+state=LOST move=-- fps=85
+state=LOST move=-- fps=85
+state=LOST move=-- fps=85
+state=LOST move=-- fps=84
+state=LOST move=-- fps=84
+state=LOST move=-- fps=84
+state=LOST move=-- fps=84
+state=LOST move=-- fps=84
+state=LOST move=-- fps=84
+state=LOST move=-- fps=84
+state=LOST move=-- fps=83
+state=LOST move=-- fps=83
+state=LOST move=-- fps=83
+state=LOST move=-- fps=83
+state=LOST move=-- fps=83
+state=LOST move=-- fps=83
+state=LOST move=-- fps=82
+state=LOST move=-- fps=82
+state=LOST move=-- fps=82
+state=LOST move=-- fps=82
+state=LOST move=-- fps=82
+state=LOST move=-- fps=82
+state=LOST move=-- fps=82
+state=LOST move=-- fps=81
+state=LOST move=-- fps=81
+state=LOST move=-- fps=81
+state=LOST move=-- fps=81
+state=LOST move=-- fps=81
+state=LOST move=-- fps=81
+state=LOST move=-- fps=81
+state=LOST move=-- fps=81
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=73
+state=LOST move=-- fps=73
+state=LOST move=-- fps=73
+state=LOST move=-- fps=73
+state=LOST move=-- fps=73
+state=LOST move=-- fps=73
+state=LOST move=-- fps=73
+state=LOST move=-- fps=73
+state=LOST move=-- fps=73
+state=LOST move=-- fps=73
+state=LOST move=-- fps=73
+state=LOST move=-- fps=73
+state=LOST move=-- fps=73
+state=2 zone=LOST move=INIT z=HOLD v=0.0 vw=+0.0 cx=292 cy=4 px=300 fps=72
+state=1 zone=RIGHT move=MOVE LEFT 171deg z=NEAR v=458.8 vw=+1109.1 cx=272 cy=9 px=1437 fps=72
+state=1 zone=RIGHT move=MOVE LEFT -176deg z=NEAR v=491.6 vw=+1356.4 cx=260 cy=13 px=3178 fps=72
+state=1 zone=RIGHT move=MOVE LEFT -165deg z=NEAR v=461.2 vw=+1099.5 cx=252 cy=18 px=5346 fps=72
+state=1 zone=RIGHT move=MOVE LEFT -149deg z=NEAR v=418.1 vw=+659.7 cx=247 cy=26 px=7683 fps=72
+state=1 zone=RIGHT move=MOVE LEFT -142deg z=NEAR v=453.1 vw=+395.8 cx=239 cy=34 px=10018 fps=72
+state=1 zone=RIGHT move=MOVE LEFT -147deg z=NEAR v=538.7 vw=+837.5 cx=226 cy=41 px=12473 fps=72
+state=1 zone=RIGHT move=MOVE LEFT -153deg z=NEAR v=539.1 vw=+641.6 cx=214 cy=45 px=13635 fps=72
+state=1 zone=RIGHT move=MOVE LEFT -153deg z=NEAR v=450.8 vw=+330.7 cx=197 cy=53 px=15671 fps=72
+state=1 zone=RIGHT move=MOVE LEFT -153deg z=NEAR v=455.2 vw=+60.7 cx=172 cy=66 px=17066 fps=72
+state=1 zone=RIGHT move=MOVE LEFT -148deg z=FAR v=453.5 vw=-48.8 cx=150 cy=83 px=15153 fps=72
+state=0 zone=CENTER move=MOVE LEFT -140deg z=FAR v=418.7 vw=-101.2 cx=130 cy=111 px=11823 fps=72
+state=0 zone=CENTER move=MOVE LEFT -135deg z=FAR v=396.2 vw=-187.4 cx=117 cy=129 px=9164 fps=72
+state=0 zone=CENTER move=MOVE DOWN -133deg z=FAR v=314.6 vw=-254.8 cx=110 cy=138 px=7038 fps=72
+state=-1 zone=LEFT move=MOVE DOWN -130deg z=FAR v=198.7 vw=-152.9 cx=110 cy=140 px=6210 fps=72
+state=-1 zone=LEFT move=MOVE DOWN -128deg z=FAR v=124.3 vw=-91.7 cx=110 cy=141 px=5865 fps=72
+state=-1 zone=LEFT move=MOVE DOWN -131deg z=FAR v=77.6 vw=-55.0 cx=109 cy=141 px=5744 fps=72
+state=-1 zone=LEFT move=STOP z=FAR v=46.6 vw=-19.2 cx=109 cy=141 px=5860 fps=72
+state=-1 zone=LEFT move=STOP z=HOLD v=42.1 vw=-11.5 cx=107 cy=142 px=5632 fps=72
+state=-1 zone=LEFT move=STOP z=HOLD v=3.4 vw=-6.9 cx=110 cy=140 px=5981 fps=72
+state=-1 zone=LEFT move=STOP z=FAR v=20.0 vw=-16.7 cx=107 cy=141 px=5718 fps=72
+state=-1 zone=LEFT move=STOP z=NEAR v=11.3 vw=+32.1 cx=108 cy=141 px=5762 fps=72
+state=-1 zone=LEFT move=STOP z=NEAR v=16.2 vw=+19.3 cx=110 cy=139 px=6191 fps=72
+state=-1 zone=LEFT move=STOP z=HOLD v=18.8 vw=+11.6 cx=111 cy=138 px=6307 fps=72
+state=-1 zone=LEFT move=STOP z=HOLD v=16.2 vw=-6.6 cx=112 cy=139 px=6461 fps=72
+state=-1 zone=LEFT move=STOP z=HOLD v=9.7 vw=-4.0 cx=112 cy=139 px=6548 fps=72
+state=-1 zone=LEFT move=STOP z=HOLD v=18.3 vw=-14.9 cx=114 cy=139 px=6652 fps=72
+state=-1 zone=LEFT move=STOP z=HOLD v=17.9 vw=-8.9 cx=115 cy=139 px=6853 fps=72
+state=-1 zone=LEFT move=STOP z=NEAR v=24.7 vw=+106.3 cx=118 cy=139 px=7426 fps=73
+state=-1 zone=LEFT move=STOP z=NEAR v=33.0 vw=+63.8 cx=119 cy=139 px=7505 fps=73
+state=-1 zone=LEFT move=STOP z=NEAR v=32.7 vw=+62.9 cx=121 cy=138 px=7841 fps=73
+state=-1 zone=LEFT move=STOP z=NEAR v=28.0 vw=+37.7 cx=122 cy=140 px=8722 fps=73
+state=-1 zone=LEFT move=STOP z=NEAR v=29.4 vw=+35.7 cx=123 cy=142 px=9234 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=8.1 vw=-5.7 cx=122 cy=141 px=9598 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=16.7 vw=-3.4 cx=122 cy=140 px=9672 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=17.8 vw=-10.8 cx=119 cy=139 px=9713 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=25.2 vw=-6.5 cx=117 cy=138 px=9687 fps=73
+state=-1 zone=LEFT move=STOP z=FAR v=31.6 vw=-40.3 cx=116 cy=138 px=9656 fps=73
+state=-1 zone=LEFT move=STOP z=FAR v=25.0 vw=-36.7 cx=115 cy=138 px=9475 fps=73
+state=-1 zone=LEFT move=STOP z=FAR v=34.8 vw=-155.3 cx=112 cy=138 px=9120 fps=73
+state=-1 zone=LEFT move=STOP z=FAR v=20.9 vw=-79.6 cx=112 cy=138 px=9017 fps=73
+state=-1 zone=LEFT move=STOP z=FAR v=12.5 vw=-47.8 cx=112 cy=138 px=9032 fps=73
+state=-1 zone=LEFT move=STOP z=FAR v=7.5 vw=-42.2 cx=112 cy=138 px=8943 fps=73
+state=-1 zone=LEFT move=STOP z=FAR v=4.5 vw=-25.3 cx=112 cy=138 px=8976 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=9.5 vw=-8.4 cx=111 cy=138 px=8892 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=5.7 vw=+13.1 cx=111 cy=138 px=8889 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=7.2 vw=+1.6 cx=111 cy=137 px=8778 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=4.3 vw=+5.5 cx=111 cy=137 px=8838 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=2.6 vw=+3.3 cx=111 cy=137 px=8826 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=7.1 vw=+2.0 cx=110 cy=137 px=8833 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=4.3 vw=+1.2 cx=110 cy=137 px=8833 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=2.6 vw=+14.3 cx=110 cy=137 px=8797 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=1.5 vw=+8.6 cx=110 cy=137 px=8743 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=0.9 vw=+5.1 cx=110 cy=137 px=8641 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=4.2 vw=-6.4 cx=111 cy=137 px=8538 fps=73
+state=-1 zone=LEFT move=STOP z=NEAR v=35.4 vw=+125.2 cx=116 cy=136 px=8538 fps=73
+state=-1 zone=LEFT move=STOP z=NEAR v=54.4 vw=+75.1 cx=117 cy=134 px=8062 fps=73
+state=-1 zone=LEFT move=STOP z=NEAR v=36.4 vw=+45.1 cx=119 cy=139 px=8241 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=38.8 vw=+13.2 cx=119 cy=143 px=8324 fps=73
+state=-1 zone=LEFT move=STOP z=HOLD v=27.5 vw=+7.9 cx=120 cy=143 px=8273 fps=73
+state=-1 zone=LEFT move=STOP z=NEAR v=21.8 vw=+25.1 cx=120 cy=144 px=8566 fps=74
+state=-1 zone=LEFT move=STOP z=NEAR v=13.1 vw=+21.6 cx=120 cy=144 px=8829 fps=74
+state=-1 zone=LEFT move=STOP z=NEAR v=7.9 vw=+33.7 cx=120 cy=144 px=9025 fps=74
+state=-1 zone=LEFT move=STOP z=NEAR v=22.6 vw=+51.9 cx=122 cy=146 px=9374 fps=74
+state=-1 zone=LEFT move=STOP z=NEAR v=28.3 vw=+31.2 cx=123 cy=146 px=9429 fps=74
+state=-1 zone=LEFT move=STOP z=NEAR v=43.0 vw=+56.8 cx=126 cy=149 px=9344 fps=74
+state=-1 zone=LEFT move=STOP z=NEAR v=63.2 vw=+75.5 cx=135 cy=148 px=9129 fps=74
+state=-1 zone=LEFT move=STOP z=NEAR v=77.0 vw=+51.8 cx=141 cy=148 px=9573 fps=74
+state=-1 zone=LEFT move=STOP z=FAR v=67.9 vw=-96.2 cx=142 cy=149 px=9666 fps=74
+state=-1 zone=LEFT move=STOP z=FAR v=77.3 vw=-51.6 cx=148 cy=150 px=10132 fps=74
+state=-1 zone=LEFT move=STOP z=FAR v=55.2 vw=-31.0 cx=149 cy=151 px=10891 fps=74
+state=-1 zone=LEFT move=STOP z=FAR v=72.9 vw=-18.6 cx=155 cy=147 px=10989 fps=74
+state=-1 zone=LEFT move=STOP z=FAR v=48.6 vw=-31.8 cx=155 cy=145 px=10513 fps=74
+state=0 zone=CENTER move=STOP z=FAR v=69.9 vw=-25.7 cx=158 cy=139 px=10470 fps=74
+state=0 zone=CENTER move=STOP z=HOLD v=56.0 vw=-15.4 cx=160 cy=138 px=10370 fps=74
+state=0 zone=CENTER move=STOP z=HOLD v=46.0 vw=+4.6 cx=163 cy=140 px=10150 fps=74
+state=0 zone=CENTER move=STOP z=FAR v=55.1 vw=-36.6 cx=167 cy=143 px=9617 fps=74
+state=0 zone=CENTER move=STOP z=FAR v=33.0 vw=-22.0 cx=167 cy=143 px=9493 fps=74
+state=0 zone=CENTER move=STOP z=FAR v=40.7 vw=-32.2 cx=170 cy=140 px=8857 fps=74
+state=0 zone=CENTER move=STOP z=FAR v=52.1 vw=-37.9 cx=168 cy=131 px=8754 fps=74
+state=0 zone=CENTER move=MOVE UP 93deg z=FAR v=98.1 vw=-22.8 cx=166 cy=121 px=8681 fps=74
+state=0 zone=CENTER move=MOVE UP 95deg z=HOLD v=113.4 vw=-13.7 cx=165 cy=113 px=8614 fps=74
+state=0 zone=CENTER move=MOVE UP 95deg z=HOLD v=124.6 vw=-1.2 cx=164 cy=105 px=8648 fps=74
+state=0 zone=CENTER move=STOP z=HOLD v=61.2 vw=-13.8 cx=161 cy=108 px=8713 fps=74
+state=0 zone=CENTER move=STOP z=HOLD v=39.0 vw=-8.3 cx=160 cy=111 px=8663 fps=74
+state=0 zone=CENTER move=STOP z=FAR v=59.3 vw=-22.8 cx=158 cy=120 px=8436 fps=74
+state=0 zone=CENTER move=STOP z=HOLD v=56.1 vw=-7.1 cx=157 cy=123 px=8309 fps=74
+state=0 zone=CENTER move=STOP z=HOLD v=61.5 vw=+2.5 cx=154 cy=126 px=8074 fps=74
+state=0 zone=CENTER move=STOP z=HOLD v=50.2 vw=+1.5 cx=153 cy=126 px=8092 fps=74
+state=0 zone=CENTER move=STOP z=HOLD v=38.5 vw=-5.4 cx=151 cy=125 px=8318 fps=74
+state=0 zone=CENTER move=STOP z=HOLD v=43.0 vw=+3.8 cx=148 cy=124 px=8219 fps=74
+state=0 zone=CENTER move=STOP z=FAR v=69.4 vw=-112.0 cx=139 cy=126 px=7507 fps=74
+state=0 zone=CENTER move=STOP z=NEAR v=58.9 vw=+37.1 cx=138 cy=126 px=7484 fps=74
+state=-1 zone=LEFT move=STOP z=NEAR v=48.2 vw=+22.3 cx=136 cy=125 px=7487 fps=74
+state=-1 zone=LEFT move=STOP z=HOLD v=35.9 vw=-14.7 cx=135 cy=125 px=7498 fps=74
+state=-1 zone=LEFT move=STOP z=FAR v=28.3 vw=-22.4 cx=134 cy=125 px=7484 fps=74
+state=-1 zone=LEFT move=STOP z=NEAR v=23.9 vw=+152.1 cx=133 cy=125 px=7537 fps=74
+state=-1 zone=LEFT move=STOP z=FAR v=21.3 vw=-70.2 cx=132 cy=125 px=7513 fps=74
+state=-1 zone=LEFT move=STOP z=FAR v=19.3 vw=-48.5 cx=131 cy=125 px=7543 fps=74
+state=-1 zone=LEFT move=STOP z=HOLD v=11.6 vw=-4.1 cx=131 cy=125 px=7517 fps=74
+state=-1 zone=LEFT move=STOP z=HOLD v=13.7 vw=-9.3 cx=130 cy=125 px=7502 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=10.8 vw=+13.5 cx=131 cy=125 px=7499 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=6.5 vw=-4.6 cx=131 cy=125 px=7492 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=8.7 vw=-2.8 cx=132 cy=125 px=7471 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=5.2 vw=-1.7 cx=132 cy=125 px=7455 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=9.5 vw=-1.0 cx=133 cy=125 px=7454 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=5.7 vw=-0.6 cx=133 cy=125 px=7465 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=3.4 vw=-0.4 cx=133 cy=125 px=7453 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=2.0 vw=-0.2 cx=133 cy=125 px=7464 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=1.2 vw=-0.1 cx=133 cy=125 px=7451 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=9.0 vw=+8.9 cx=133 cy=127 px=7506 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=28.9 vw=+5.3 cx=134 cy=128 px=7509 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=36.9 vw=+15.9 cx=135 cy=131 px=7568 fps=75
+state=-1 zone=LEFT move=STOP z=NEAR v=49.3 vw=+42.9 cx=136 cy=135 px=7649 fps=75
+state=-1 zone=LEFT move=STOP z=FAR v=64.0 vw=-21.7 cx=137 cy=140 px=7534 fps=75
+state=-1 zone=LEFT move=STOP z=HOLD v=67.3 vw=+8.0 cx=138 cy=144 px=7492 fps=75
+state=-1 zone=LEFT move=MOVE DOWN -83deg z=FAR v=87.9 vw=-36.6 cx=138 cy=151 px=7178 fps=75
+state=-1 zone=LEFT move=MOVE DOWN -72deg z=HOLD v=90.3 vw=-8.4 cx=141 cy=156 px=7290 fps=75
+state=-1 zone=LEFT move=MOVE DOWN -66deg z=HOLD v=94.4 vw=+2.0 cx=144 cy=161 px=7166 fps=75
+state=-1 zone=LEFT move=MOVE DOWN -71deg z=HOLD v=92.6 vw=+15.5 cx=145 cy=166 px=7388 fps=75
+state=-1 zone=LEFT move=MOVE DOWN -75deg z=HOLD v=95.8 vw=+2.6 cx=146 cy=172 px=7207 fps=75
+state=-1 zone=LEFT move=MOVE DOWN -76deg z=HOLD v=93.2 vw=+8.6 cx=147 cy=177 px=7067 fps=75
+state=-1 zone=LEFT move=MOVE DOWN -79deg z=NEAR v=94.7 vw=+53.3 cx=148 cy=185 px=6806 fps=75
+state=-1 zone=LEFT move=MOVE DOWN -74deg z=NEAR v=92.3 vw=+98.7 cx=150 cy=190 px=6487 fps=75
+state=-1 zone=LEFT move=MOVE DOWN -75deg z=FAR v=84.3 vw=-60.1 cx=151 cy=194 px=6033 fps=75
+state=-1 zone=LEFT move=STOP z=FAR v=66.0 vw=-29.0 cx=152 cy=196 px=5749 fps=75
+state=-1 zone=LEFT move=STOP z=FAR v=58.3 vw=-17.4 cx=154 cy=198 px=5371 fps=75
+state=0 zone=CENTER move=STOP z=HOLD v=53.6 vw=-10.5 cx=155 cy=202 px=4884 fps=75
+state=0 zone=CENTER move=STOP z=NEAR v=32.2 vw=+89.0 cx=155 cy=202 px=4875 fps=75
+state=0 zone=CENTER move=STOP z=HOLD v=25.5 vw=+7.5 cx=155 cy=203 px=4701 fps=75
+state=0 zone=CENTER move=STOP z=NEAR v=15.3 vw=+74.7 cx=155 cy=203 px=4623 fps=75
+state=0 zone=CENTER move=STOP z=FAR v=15.7 vw=-21.9 cx=155 cy=204 px=4552 fps=75
+state=0 zone=CENTER move=STOP z=FAR v=9.4 vw=-27.4 cx=155 cy=204 px=4406 fps=75
+state=0 zone=CENTER move=STOP z=FAR v=5.6 vw=-16.4 cx=155 cy=204 px=4539 fps=75
+state=0 zone=CENTER move=STOP z=FAR v=3.4 vw=-27.8 cx=155 cy=204 px=4453 fps=75
+state=0 zone=CENTER move=STOP z=NEAR v=4.8 vw=+125.7 cx=155 cy=203 px=4646 fps=75
+state=0 zone=CENTER move=STOP z=HOLD v=18.5 vw=-3.2 cx=154 cy=201 px=4854 fps=75
+state=0 zone=CENTER move=STOP z=NEAR v=28.0 vw=+102.4 cx=154 cy=200 px=4951 fps=75
+state=0 zone=CENTER move=STOP z=NEAR v=36.5 vw=+68.0 cx=155 cy=197 px=5407 fps=75
+state=0 zone=CENTER move=STOP z=HOLD v=29.3 vw=-2.0 cx=154 cy=196 px=5483 fps=75
+state=0 zone=CENTER move=STOP z=NEAR v=41.0 vw=+69.4 cx=154 cy=191 px=6170 fps=76
+state=0 zone=CENTER move=STOP z=FAR v=42.7 vw=-285.7 cx=154 cy=190 px=6256 fps=76
+state=0 zone=CENTER move=STOP z=FAR v=51.9 vw=-66.5 cx=154 cy=186 px=6567 fps=76
+state=0 zone=CENTER move=STOP z=FAR v=67.8 vw=-152.2 cx=152 cy=181 px=6670 fps=76
+state=0 zone=CENTER move=STOP z=FAR v=62.8 vw=-77.3 cx=151 cy=178 px=6732 fps=76
+state=0 zone=CENTER move=STOP z=FAR v=67.7 vw=-46.4 cx=150 cy=174 px=6792 fps=76
+state=0 zone=CENTER move=STOP z=FAR v=55.8 vw=-20.9 cx=149 cy=172 px=6766 fps=76
+state=0 zone=CENTER move=STOP z=HOLD v=58.6 vw=-5.4 cx=147 cy=169 px=6888 fps=76
+state=0 zone=CENTER move=STOP z=FAR v=51.2 vw=-46.1 cx=146 cy=167 px=7031 fps=76
+state=0 zone=CENTER move=STOP z=HOLD v=45.6 vw=-14.3 cx=145 cy=165 px=7109 fps=76
+state=-1 zone=LEFT move=STOP z=FAR v=60.6 vw=-43.4 cx=145 cy=163 px=7174 fps=76
+state=-1 zone=LEFT move=STOP z=FAR v=44.2 vw=-32.5 cx=144 cy=162 px=7184 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=37.2 vw=-14.7 cx=143 cy=160 px=7070 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=50.2 vw=-8.8 cx=142 cy=156 px=7349 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=38.9 vw=+12.1 cx=141 cy=156 px=7386 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=36.6 vw=+7.3 cx=140 cy=154 px=7414 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=34.0 vw=-2.5 cx=140 cy=152 px=7436 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=47.1 vw=-1.5 cx=140 cy=148 px=7801 fps=76
+state=-1 zone=LEFT move=STOP z=NEAR v=28.3 vw=+51.3 cx=140 cy=148 px=7851 fps=76
+state=-1 zone=LEFT move=STOP z=NEAR v=30.3 vw=+21.8 cx=140 cy=145 px=7982 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=38.2 vw=+13.1 cx=140 cy=142 px=8012 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=31.1 vw=+15.0 cx=139 cy=141 px=8091 fps=76
+state=-1 zone=LEFT move=STOP z=NEAR v=18.7 vw=+43.8 cx=139 cy=141 px=8088 fps=76
+state=-1 zone=LEFT move=STOP z=NEAR v=23.9 vw=+39.2 cx=139 cy=139 px=8213 fps=76
+state=-1 zone=LEFT move=STOP z=NEAR v=27.8 vw=+23.5 cx=139 cy=137 px=8268 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=30.3 vw=+14.1 cx=139 cy=134 px=8326 fps=76
+state=-1 zone=LEFT move=STOP z=FAR v=25.3 vw=-64.3 cx=140 cy=134 px=8332 fps=76
+state=-1 zone=LEFT move=STOP z=FAR v=25.7 vw=-26.1 cx=140 cy=132 px=8386 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=28.5 vw=-15.6 cx=140 cy=130 px=8392 fps=76
+state=-1 zone=LEFT move=STOP z=FAR v=32.1 vw=-22.9 cx=141 cy=128 px=8351 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=32.6 vw=-6.9 cx=141 cy=126 px=8350 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=33.0 vw=-10.9 cx=141 cy=124 px=8307 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=33.7 vw=-6.5 cx=140 cy=122 px=8267 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=27.2 vw=-10.9 cx=140 cy=121 px=8235 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=39.7 vw=+11.6 cx=139 cy=120 px=8261 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=32.6 vw=+0.6 cx=138 cy=119 px=8184 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=31.1 vw=-6.1 cx=138 cy=117 px=8155 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=27.4 vw=+0.9 cx=138 cy=115 px=8198 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=34.3 vw=+0.5 cx=138 cy=114 px=8219 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=33.1 vw=+0.3 cx=138 cy=112 px=8210 fps=76
+state=-1 zone=LEFT move=STOP z=NEAR v=33.8 vw=+20.5 cx=139 cy=110 px=8216 fps=76
+state=-1 zone=LEFT move=STOP z=HOLD v=27.0 vw=-1.2 cx=138 cy=109 px=8187 fps=76
+state=-1 zone=LEFT move=STOP z=NEAR v=16.2 vw=+144.7 cx=138 cy=109 px=8173 fps=77
+state=-1 zone=LEFT move=STOP z=NEAR v=22.2 vw=+86.8 cx=138 cy=107 px=8166 fps=77
+state=-1 zone=LEFT move=STOP z=NEAR v=26.8 vw=+29.6 cx=138 cy=104 px=8150 fps=77
+state=-1 zone=LEFT move=STOP z=NEAR v=30.8 vw=+17.8 cx=139 cy=102 px=8115 fps=77
+state=-1 zone=LEFT move=STOP z=NEAR v=32.4 vw=+42.4 cx=140 cy=100 px=8056 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=36.4 vw=+8.1 cx=140 cy=99 px=7998 fps=77
+state=-1 zone=LEFT move=STOP z=FAR v=41.8 vw=-39.6 cx=141 cy=96 px=7921 fps=77
+state=-1 zone=LEFT move=STOP z=FAR v=38.1 vw=-30.4 cx=141 cy=94 px=7826 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=44.2 vw=-4.7 cx=142 cy=91 px=7724 fps=77
+state=-1 zone=LEFT move=STOP z=FAR v=60.7 vw=-37.3 cx=140 cy=86 px=7311 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=69.5 vw=-9.0 cx=141 cy=81 px=7058 fps=77
+state=-1 zone=LEFT move=STOP z=FAR v=48.8 vw=-31.2 cx=142 cy=80 px=7297 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=47.3 vw=-0.6 cx=142 cy=79 px=7385 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=35.8 vw=+6.0 cx=143 cy=78 px=7442 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=27.0 vw=+3.6 cx=144 cy=77 px=7508 fps=77
+state=-1 zone=LEFT move=STOP z=FAR v=34.6 vw=-35.9 cx=144 cy=76 px=7515 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=28.4 vw=+3.1 cx=145 cy=75 px=7571 fps=77
+state=-1 zone=LEFT move=STOP z=NEAR v=29.3 vw=+20.9 cx=145 cy=73 px=7584 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=24.2 vw=+12.5 cx=145 cy=72 px=7571 fps=77
+state=-1 zone=LEFT move=STOP z=FAR v=14.5 vw=-49.6 cx=145 cy=72 px=7545 fps=77
+state=-1 zone=LEFT move=STOP z=FAR v=15.7 vw=-17.3 cx=144 cy=71 px=7546 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=22.2 vw=-10.4 cx=145 cy=68 px=7531 fps=77
+state=-1 zone=LEFT move=STOP z=FAR v=20.1 vw=-40.1 cx=145 cy=67 px=7508 fps=77
+state=-1 zone=LEFT move=STOP z=NEAR v=30.2 vw=+30.5 cx=145 cy=66 px=7528 fps=77
+state=-1 zone=LEFT move=STOP z=NEAR v=30.9 vw=+18.3 cx=146 cy=64 px=7500 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=34.0 vw=+11.0 cx=147 cy=62 px=7528 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=33.3 vw=+6.6 cx=147 cy=60 px=7497 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=34.6 vw=+10.6 cx=148 cy=58 px=7514 fps=77
+state=-1 zone=LEFT move=STOP z=NEAR v=35.8 vw=+19.9 cx=149 cy=56 px=7503 fps=77
+state=-1 zone=LEFT move=STOP z=NEAR v=30.5 vw=+73.0 cx=150 cy=55 px=7515 fps=77
+state=-1 zone=LEFT move=STOP z=NEAR v=44.8 vw=+196.2 cx=151 cy=54 px=7443 fps=77
+state=-1 zone=LEFT move=STOP z=NEAR v=43.2 vw=+92.7 cx=151 cy=51 px=7450 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=38.3 vw=-10.0 cx=151 cy=49 px=7339 fps=77
+state=-1 zone=LEFT move=STOP z=NEAR v=37.7 vw=+59.1 cx=152 cy=46 px=7284 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=41.6 vw=-0.9 cx=151 cy=45 px=7312 fps=77
+state=-1 zone=LEFT move=STOP z=FAR v=37.1 vw=-25.5 cx=151 cy=43 px=7149 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=37.1 vw=-8.5 cx=150 cy=41 px=7086 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=34.4 vw=+14.6 cx=151 cy=39 px=6911 fps=77
+state=-1 zone=LEFT move=STOP z=FAR v=28.7 vw=-31.3 cx=150 cy=39 px=6799 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=25.5 vw=+6.2 cx=151 cy=37 px=6566 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=19.6 vw=+3.7 cx=152 cy=36 px=6379 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=29.9 vw=-15.9 cx=152 cy=35 px=6332 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=18.0 vw=-15.7 cx=152 cy=35 px=6242 fps=77
+state=-1 zone=LEFT move=STOP z=HOLD v=17.7 vw=-2.5 cx=152 cy=34 px=6152 fps=77
+state=0 zone=CENTER move=STOP z=HOLD v=12.7 vw=-8.3 cx=153 cy=34 px=6127 fps=78
+state=0 zone=CENTER move=STOP z=HOLD v=7.6 vw=+12.4 cx=153 cy=34 px=6171 fps=78
+state=0 zone=CENTER move=STOP z=HOLD v=2.6 vw=+11.8 cx=153 cy=35 px=6324 fps=78
+state=0 zone=CENTER move=STOP z=HOLD v=8.6 vw=+7.1 cx=152 cy=36 px=6451 fps=78
+state=0 zone=CENTER move=STOP z=FAR v=17.1 vw=-117.8 cx=150 cy=36 px=6479 fps=78
+state=0 zone=CENTER move=STOP z=NEAR v=8.6 vw=+293.0 cx=151 cy=36 px=6579 fps=78
+state=0 zone=CENTER move=STOP z=NEAR v=8.7 vw=+164.4 cx=151 cy=37 px=6655 fps=78
+state=0 zone=CENTER move=STOP z=NEAR v=11.6 vw=+85.3 cx=150 cy=38 px=6822 fps=78
+state=0 zone=CENTER move=STOP z=NEAR v=11.5 vw=+65.1 cx=150 cy=39 px=7058 fps=78
+state=0 zone=CENTER move=STOP z=NEAR v=25.0 vw=+57.3 cx=150 cy=40 px=7128 fps=78
+state=0 zone=CENTER move=STOP z=NEAR v=25.0 vw=+21.9 cx=148 cy=41 px=7314 fps=78
+state=0 zone=CENTER move=STOP z=NEAR v=35.9 vw=+26.4 cx=147 cy=44 px=7637 fps=78
+state=0 zone=CENTER move=STOP z=HOLD v=45.5 vw=+15.9 cx=147 cy=48 px=7716 fps=78
+state=0 zone=CENTER move=STOP z=FAR v=54.8 vw=-70.5 cx=146 cy=52 px=7967 fps=78
+state=0 zone=CENTER move=STOP z=NEAR v=70.5 vw=+224.4 cx=146 cy=54 px=8102 fps=78
+state=-1 zone=LEFT move=STOP z=NEAR v=69.0 vw=+143.4 cx=145 cy=60 px=8399 fps=78
+state=-1 zone=LEFT move=STOP z=NEAR v=62.6 vw=+72.5 cx=144 cy=63 px=8446 fps=78
+state=-1 zone=LEFT move=STOP z=NEAR v=60.6 vw=+79.9 cx=143 cy=64 px=8450 fps=78
+state=-1 zone=LEFT move=STOP z=NEAR v=56.0 vw=+22.9 cx=142 cy=67 px=8616 fps=78
+state=-1 zone=LEFT move=STOP z=FAR v=48.5 vw=-39.6 cx=141 cy=69 px=8674 fps=78
+state=-1 zone=LEFT move=STOP z=FAR v=41.9 vw=-84.8 cx=141 cy=71 px=8734 fps=78
+state=-1 zone=LEFT move=STOP z=FAR v=43.7 vw=-50.9 cx=141 cy=74 px=8650 fps=78
+state=-1 zone=LEFT move=STOP z=FAR v=40.5 vw=-17.4 cx=140 cy=76 px=8526 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=33.0 vw=-10.4 cx=139 cy=77 px=8309 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=47.6 vw=-6.3 cx=138 cy=81 px=8607 fps=78
+state=-1 zone=LEFT move=STOP z=NEAR v=82.2 vw=+32.6 cx=139 cy=84 px=8936 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -82deg z=NEAR v=86.2 vw=+68.0 cx=140 cy=90 px=9180 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -82deg z=NEAR v=85.0 vw=+102.0 cx=141 cy=97 px=9446 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -84deg z=HOLD v=77.5 vw=+7.9 cx=141 cy=101 px=9573 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -86deg z=NEAR v=79.7 vw=+71.4 cx=141 cy=106 px=9773 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -92deg z=FAR v=81.2 vw=-83.8 cx=140 cy=111 px=9897 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -91deg z=FAR v=90.1 vw=-43.4 cx=140 cy=117 px=10091 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -94deg z=HOLD v=92.5 vw=-13.3 cx=139 cy=123 px=10255 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -93deg z=HOLD v=86.9 vw=-3.5 cx=139 cy=130 px=10313 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -96deg z=HOLD v=79.7 vw=+4.7 cx=138 cy=134 px=10245 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -94deg z=FAR v=80.5 vw=-16.9 cx=138 cy=139 px=10031 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -92deg z=HOLD v=88.9 vw=-10.1 cx=138 cy=145 px=10052 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -86deg z=HOLD v=87.3 vw=-12.9 cx=139 cy=150 px=10011 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -91deg z=FAR v=90.4 vw=-31.5 cx=138 cy=158 px=9657 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -95deg z=FAR v=73.4 vw=-31.4 cx=137 cy=161 px=9713 fps=78
+state=-1 zone=LEFT move=MOVE DOWN -93deg z=HOLD v=70.6 vw=+7.8 cx=137 cy=165 px=9696 fps=78
+state=-1 zone=LEFT move=STOP z=FAR v=63.4 vw=-16.4 cx=137 cy=168 px=9429 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=53.5 vw=-9.8 cx=135 cy=170 px=9550 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=45.7 vw=+1.1 cx=135 cy=172 px=9574 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=41.0 vw=+7.6 cx=135 cy=174 px=9552 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=45.2 vw=+11.4 cx=135 cy=177 px=9429 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=42.1 vw=+6.9 cx=134 cy=179 px=9408 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=39.1 vw=+4.1 cx=134 cy=181 px=9388 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=37.6 vw=+2.5 cx=134 cy=183 px=9233 fps=78
+state=-1 zone=LEFT move=STOP z=FAR v=30.2 vw=-16.7 cx=133 cy=183 px=9206 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=23.8 vw=-14.6 cx=134 cy=185 px=8708 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=29.4 vw=-8.7 cx=133 cy=187 px=8519 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=41.4 vw=-5.2 cx=132 cy=188 px=8553 fps=78
+state=-1 zone=LEFT move=STOP z=FAR v=27.9 vw=-16.3 cx=133 cy=189 px=8159 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=26.1 vw=-9.8 cx=132 cy=190 px=8064 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=22.1 vw=+1.2 cx=132 cy=191 px=7862 fps=78
+state=-1 zone=LEFT move=STOP z=FAR v=39.3 vw=-18.3 cx=131 cy=192 px=7917 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=31.5 vw=-1.7 cx=131 cy=194 px=7670 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=28.5 vw=+13.0 cx=130 cy=195 px=7573 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=14.6 vw=-13.2 cx=131 cy=195 px=7384 fps=78
+state=-1 zone=LEFT move=STOP z=NEAR v=21.3 vw=+28.4 cx=130 cy=195 px=7494 fps=78
+state=-1 zone=LEFT move=STOP z=NEAR v=7.3 vw=+23.6 cx=131 cy=195 px=7511 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=4.4 vw=-7.3 cx=131 cy=195 px=7551 fps=78
+state=-1 zone=LEFT move=STOP z=HOLD v=3.5 vw=-9.1 cx=132 cy=195 px=7408 fps=78
+state=-1 zone=LEFT move=STOP z=NEAR v=24.9 vw=+32.6 cx=131 cy=194 px=7583 fps=79
+state=-1 zone=LEFT move=STOP z=NEAR v=15.0 vw=+19.6 cx=131 cy=194 px=7649 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=6.5 vw=-2.3 cx=132 cy=194 px=7449 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=7.4 vw=+5.4 cx=131 cy=194 px=7628 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=20.9 vw=-14.9 cx=131 cy=193 px=7668 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=18.2 vw=+0.1 cx=130 cy=192 px=7815 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=10.9 vw=+0.1 cx=130 cy=192 px=7919 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=16.3 vw=+0.0 cx=129 cy=191 px=7896 fps=79
+state=-1 zone=LEFT move=STOP z=FAR v=9.8 vw=-18.2 cx=129 cy=191 px=7967 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=11.8 vw=-10.9 cx=129 cy=190 px=8204 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=21.7 vw=+7.8 cx=130 cy=188 px=8405 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=26.9 vw=-9.4 cx=130 cy=186 px=8683 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=24.8 vw=-5.6 cx=131 cy=185 px=8672 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=28.7 vw=-3.4 cx=131 cy=183 px=8862 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=38.5 vw=-2.0 cx=131 cy=180 px=8737 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=37.3 vw=+5.9 cx=131 cy=178 px=8848 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=44.0 vw=+3.6 cx=130 cy=177 px=8918 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=46.1 vw=-10.4 cx=129 cy=174 px=8928 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=44.9 vw=-1.7 cx=129 cy=170 px=8894 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=49.5 vw=-1.0 cx=128 cy=169 px=8830 fps=79
+state=-1 zone=LEFT move=STOP z=FAR v=41.9 vw=-27.3 cx=128 cy=167 px=8626 fps=79
+state=-1 zone=LEFT move=STOP z=FAR v=56.4 vw=-30.4 cx=126 cy=163 px=8659 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=40.1 vw=-4.9 cx=126 cy=162 px=8684 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=48.5 vw=+15.2 cx=125 cy=161 px=8632 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=46.5 vw=-8.3 cx=124 cy=157 px=8647 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=34.2 vw=+8.8 cx=124 cy=156 px=8733 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=25.9 vw=+12.0 cx=125 cy=155 px=8765 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=24.2 vw=-11.0 cx=124 cy=155 px=8850 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=22.2 vw=-0.4 cx=125 cy=153 px=8852 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=28.5 vw=-7.2 cx=124 cy=151 px=8852 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=34.1 vw=-13.8 cx=122 cy=148 px=8718 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=37.6 vw=+9.9 cx=122 cy=147 px=8732 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=34.8 vw=+12.2 cx=122 cy=145 px=8808 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=34.3 vw=+7.3 cx=122 cy=143 px=8859 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=34.1 vw=+4.4 cx=122 cy=141 px=8882 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=28.2 vw=-15.6 cx=121 cy=141 px=8888 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=25.5 vw=+3.4 cx=122 cy=139 px=8917 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=29.6 vw=+11.3 cx=124 cy=136 px=9384 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=31.3 vw=+13.7 cx=123 cy=134 px=9494 fps=79
+state=-1 zone=LEFT move=STOP z=NEAR v=36.9 vw=+26.4 cx=123 cy=133 px=9478 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=34.8 vw=+15.8 cx=123 cy=131 px=9536 fps=79
+state=-1 zone=LEFT move=STOP z=NEAR v=41.2 vw=+43.4 cx=123 cy=128 px=9569 fps=79
+state=-1 zone=LEFT move=STOP z=NEAR v=38.7 vw=+46.0 cx=122 cy=126 px=9570 fps=79
+state=-1 zone=LEFT move=STOP z=NEAR v=29.8 vw=+27.6 cx=122 cy=125 px=9589 fps=79
+state=-1 zone=LEFT move=STOP z=NEAR v=32.1 vw=+16.6 cx=123 cy=123 px=9661 fps=79
+state=-1 zone=LEFT move=STOP z=NEAR v=39.1 vw=+29.9 cx=123 cy=120 px=9801 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=36.8 vw=-2.0 cx=123 cy=118 px=9803 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=28.9 vw=+5.6 cx=123 cy=117 px=9835 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=35.5 vw=-14.8 cx=123 cy=116 px=9788 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=34.5 vw=-8.9 cx=123 cy=113 px=9799 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=34.5 vw=-12.2 cx=123 cy=111 px=9819 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=34.2 vw=-7.3 cx=124 cy=109 px=9825 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=20.5 vw=-4.4 cx=124 cy=109 px=9844 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=26.3 vw=-2.6 cx=125 cy=107 px=9840 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=22.2 vw=-14.9 cx=125 cy=106 px=9824 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=28.3 vw=-9.0 cx=126 cy=104 px=9825 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=38.4 vw=+1.4 cx=127 cy=101 px=9815 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=36.1 vw=+7.6 cx=127 cy=99 px=9783 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=34.8 vw=+4.6 cx=127 cy=97 px=9728 fps=79
+state=-1 zone=LEFT move=STOP z=FAR v=39.0 vw=-33.6 cx=127 cy=96 px=9730 fps=79
+state=-1 zone=LEFT move=STOP z=FAR v=36.3 vw=-20.2 cx=126 cy=94 px=9670 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=36.7 vw=-12.1 cx=125 cy=92 px=9604 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=46.0 vw=-2.6 cx=124 cy=87 px=9304 fps=79
+state=-1 zone=LEFT move=STOP z=FAR v=27.6 vw=-36.3 cx=124 cy=87 px=9310 fps=79
+state=-1 zone=LEFT move=STOP z=FAR v=35.4 vw=-21.8 cx=124 cy=84 px=9340 fps=79
+state=-1 zone=LEFT move=STOP z=FAR v=34.7 vw=-19.7 cx=125 cy=82 px=9333 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=28.9 vw=+1.5 cx=126 cy=81 px=9324 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=35.0 vw=+0.9 cx=126 cy=80 px=9330 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=33.8 vw=-3.8 cx=125 cy=77 px=9404 fps=79
+state=-1 zone=LEFT move=STOP z=HOLD v=40.6 vw=+4.5 cx=125 cy=74 px=9110 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=24.4 vw=+2.7 cx=125 cy=74 px=9180 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=27.3 vw=+1.6 cx=125 cy=72 px=9320 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=24.0 vw=-12.4 cx=126 cy=71 px=9443 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=34.4 vw=-7.4 cx=126 cy=68 px=9489 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=38.8 vw=-4.5 cx=126 cy=67 px=9438 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=36.2 vw=+1.6 cx=125 cy=64 px=9423 fps=80
+state=-1 zone=LEFT move=STOP z=NEAR v=35.3 vw=+102.7 cx=125 cy=62 px=9369 fps=80
+state=-1 zone=LEFT move=STOP z=NEAR v=39.3 vw=+98.0 cx=125 cy=61 px=9385 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=36.1 vw=-47.5 cx=125 cy=59 px=9284 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=34.6 vw=+10.2 cx=125 cy=57 px=9251 fps=80
+state=-1 zone=LEFT move=STOP z=NEAR v=41.6 vw=+114.6 cx=126 cy=54 px=9176 fps=80
+state=-1 zone=LEFT move=STOP z=NEAR v=44.5 vw=+68.8 cx=126 cy=51 px=9066 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=40.4 vw=-19.8 cx=125 cy=49 px=8996 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=37.3 vw=-51.2 cx=125 cy=47 px=8791 fps=80
+state=-1 zone=LEFT move=STOP z=NEAR v=36.0 vw=+69.3 cx=126 cy=45 px=8706 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=38.9 vw=-132.3 cx=126 cy=44 px=8476 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=36.7 vw=-29.4 cx=127 cy=42 px=8092 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=32.0 vw=-17.6 cx=128 cy=40 px=7714 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=19.2 vw=-10.6 cx=128 cy=40 px=7620 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=25.4 vw=-18.9 cx=129 cy=38 px=7289 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=28.5 vw=-11.3 cx=129 cy=36 px=6909 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=29.6 vw=-6.8 cx=129 cy=34 px=6639 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=17.8 vw=-4.1 cx=129 cy=34 px=6506 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=23.8 vw=-2.4 cx=128 cy=32 px=6218 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=24.6 vw=-1.5 cx=127 cy=30 px=5750 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=27.8 vw=-14.2 cx=127 cy=28 px=5404 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=26.0 vw=-8.5 cx=126 cy=28 px=5301 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=29.4 vw=-5.1 cx=125 cy=26 px=4965 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=27.3 vw=-3.1 cx=124 cy=25 px=4728 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=28.1 vw=-1.8 cx=124 cy=23 px=4428 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=29.6 vw=-1.1 cx=124 cy=21 px=4002 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=24.1 vw=-7.3 cx=125 cy=20 px=3704 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=21.4 vw=+2.5 cx=125 cy=19 px=3491 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=35.3 vw=-33.3 cx=126 cy=18 px=3421 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=30.0 vw=-20.0 cx=127 cy=17 px=3183 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=23.4 vw=-12.0 cx=127 cy=16 px=2956 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=23.3 vw=-7.2 cx=128 cy=15 px=2789 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=23.6 vw=-4.3 cx=129 cy=14 px=2629 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=14.2 vw=+11.0 cx=129 cy=14 px=2503 fps=80
+state=-1 zone=LEFT move=STOP z=HOLD v=18.1 vw=+6.6 cx=130 cy=13 px=2317 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=36.5 vw=-32.4 cx=131 cy=12 px=2206 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=32.5 vw=-156.9 cx=126 cy=10 px=1902 fps=80
+state=-1 zone=LEFT move=STOP z=NEAR v=27.4 vw=+46.2 cx=131 cy=11 px=1962 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=15.1 vw=-72.3 cx=128 cy=9 px=1634 fps=80
+state=-1 zone=LEFT move=MOVE LEFT 162deg z=FAR v=151.4 vw=-407.0 cx=120 cy=7 px=1253 fps=80
+state=-1 zone=LEFT move=MOVE LEFT 149deg z=FAR v=78.5 vw=-282.3 cx=123 cy=5 px=854 fps=80
+state=-1 zone=LEFT move=STOP z=FAR v=38.0 vw=-197.5 cx=129 cy=3 px=513 fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=81
+state=LOST move=-- fps=81
+state=LOST move=-- fps=81
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=80
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=79
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=78
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=77
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=76
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=75
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- fps=74
+state=LOST move=-- 
+
+Traceback (most recent call last):
+  File "<stdin>", line 60, in <module>
+OpenMV v4.6.20; MicroPython v1.24.62; OPENMV4P with STM32H743
+Type "help()" for more information.
+>>> 

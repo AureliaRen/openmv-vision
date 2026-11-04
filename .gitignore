@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# C++ 构建产物（由 build_*.cmd 现场编译，不入库）
+*.exe
+*.obj
+*.o
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.zip
+
+# OpenMV / 板载
+*.pgm
+template.pgm
+
+# 日志（已单独归档 logs/ 下两份关键证据，其余忽略）
+/log/*.txt
+/log/**/*.bmp
+*.log
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 系统
+Thumbs.db
+.DS_Store
